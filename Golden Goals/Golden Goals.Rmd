@@ -1,0 +1,125 @@
+title: "Golden Goals Analytics"
+author: Vanessa Menegassi
+source: Martin (2016)
+data: 2021-22 Champions League
+---
+
+# Analyzing Champions League Goals Scored #
+
+## Data
+https://fbref.com/en/comps/8/stats/Champions-League-Stats
+Player Standard Stats 2021-2022 Champions League
+Filter by goals
+Click in share and export
+Modify and export
+
+Select the variables:
+-	Player
+-	Position
+-	Squad
+-	Playing time
+-	Goals
+-	Assists
+-	Goals scored per 90 min
+-	Assists per 90 min 
+-	Expected Goals
+-	Expected Assists
+-	Expected Goals per 90 min
+-	Expected Assists per 90 min
+
+Download as CSV (2 sheets 500 + 230) limits to 500 lines
+Merge 2 documents
+
+## Analysis
+
+## 01 Import Dataset "Golden.Goals", install and run packages.
+
+```{r}
+
+Golden.Goals <- read.csv("~/Documents/GitHub/Golden Goals/Golden Goals.csv", header=TRUE, sep=";")
+
+install.packages("dplyr")
+install.packages("rstatix")
+library(dplyr)
+library(rstatix)
+
+```
+
+## 02 Checking the structure of the data
+
+```{r}
+
+str(Golden.Goals)
+summary(Golden.Goals)
+
+```
+
+## 03 Grouping players by position
+
+```{r}
+                        
+Golden.Goals$Position[Golden.Goals$Position == "FW,MF" | Golden.Goals$Position == "MF,FW" | Golden.Goals$Position == "DF,FW" | Golden.Goals$Position == "FW,DF"| Golden.Goals$Position == "MF,DF" | Golden.Goals$Position == "DF,MF"] <- "HI"
+
+```
+
+## 04 Creating new data frames for the positions
+
+```{r}
+
+Forwards <- Golden.Goals %>% dplyr::filter(Position == "FW")
+Midfielders <- Golden.Goals %>% dplyr::filter(Position == "MF")
+Defenders <- Golden.Goals %>% dplyr::filter(Position == "DF")
+Goalkeepers <- Golden.Goals %>% dplyr::filter(Position == "GK")
+Hybrids <- Golden.Goals %>% dplyr::filter(Position == "HI")
+
+```
+
+## 05 Building a simple regression model
+
+```{r}
+
+GoalsPositionModel1 <- lm(Goals ~ Position, data = Golden.Goals)
+summary(GoalsPositionModel1)
+
+```
+
+## 06 Comparing goals by position (T_Test)
+
+```{r}
+
+GoalsPosition <- Golden.Goals %>%
+  t_test(Goals ~ Position) %>%
+  adjust_pvalue(method = "BH") %>%
+  add_significance()
+view(GoalsPosition)
+
+```
+
+## 07 Count data using a Poisson regression. Uses a log link to model data.
+
+```{r}
+
+GoalsbyPositionsPoissonModel1 <- glm(Goals ~ Position,
+data = Golden.Goals, family = poisson)
+summary(GoalsbyPositionsPoissonModel1)
+
+```
+
+## 08 Creating simple visualizations by position
+
+```{r}
+
+with(Golden.Goals, boxplot(Goals ~ Position,
+xlab = "Soccer Player Position", ylab = "Goals",
+names = c("Defender", "Forward", "Goalkeeper", "Hybrid", "Midfielder"),
+col = "gray92",
+main = "Number of Goals by Player Position (Champions League)",
+cex.lab = 1.2))
+
+```
+
+### TASKS: 
+1. Do the same process with all the other independent variables, comparing by position;
+2. Find better ways to present results (visualizations) with other packages or graphics;
+3. Whats the strength of the relationship between Goals and xG? What about Assists and xA?
+

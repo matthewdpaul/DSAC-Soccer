@@ -1,0 +1,731 @@
+Player;Position;Squad;Min;Goals;Assists;Goals_90;Assists_90;xG;xA;xG_90;xA_90
+Sébastien Haller;FW;nl Ajax;487;10;1;1.85;0.18;8.0;1.0;1.47;0.19
+Robert Lewandowski;FW;de Bayern Munich;604;9;2;1.34;0.30;6.0;1.1;0.89;0.16
+Mohamed Salah;FW;eng Liverpool;550;8;0;1.31;0.00;4.3;0.5;0.71;0.09
+Christopher Nkunku;FW,MF;de RB Leipzig;530;7;1;1.19;0.17;2.7;1.0;0.46;0.16
+Riyad Mahrez;FW;eng Manchester City;607;6;1;0.89;0.15;4.4;1.5;0.65;0.22
+Cristiano Ronaldo;FW;eng Manchester Utd;430;6;0;1.26;0.00;3.2;0.9;0.66;0.20
+Karim Benzema;FW;es Real Madrid;524;5;0;0.86;0.00;4.0;1.7;0.68;0.30
+Kylian Mbappé;FW;fr Paris S-G;581;5;4;0.77;0.62;4.4;2.2;0.69;0.35
+Lionel Messi;FW;fr Paris S-G;540;5;0;0.83;0.00;4.5;2.0;0.76;0.34
+Leroy Sané;FW,MF;de Bayern Munich;586;5;4;0.77;0.61;3.4;1.7;0.51;0.25
+Pedro Gonçalves;FW,MF;pt Sporting CP;327;4;2;1.10;0.55;2.4;1.1;0.65;0.29
+Antoine Griezmann;FW,MF;es Atlético Madrid;286;4;2;1.26;0.63;2.1;0.5;0.66;0.16
+Arnaut Groeneveld;FW;es Villarreal;476;4;2;0.76;0.38;2.8;0.7;0.53;0.14
+Karim Adeyemi;FW;at RB Salzburg;541;3;1;0.50;0.17;3.9;0.7;0.64;0.11
+Steven Berghuis;MF;nl Ajax;452;3;1;0.60;0.20;1.4;1.8;0.28;0.35
+Jonathan David;FW;fr Lille;518;3;0;0.52;0.00;2.2;0.7;0.38;0.12
+Paulo Dybala;FW,MF;it Juventus;242;3;1;1.12;0.37;2.3;1.1;0.85;0.41
+Edin Džeko;FW;it Inter;537;3;1;0.50;0.17;4.1;0.7;0.69;0.12
+Roberto Firmino;FW;eng Liverpool;192;3;0;1.41;0.00;0.8;0.0;0.39;0.02
+Erling Haaland;FW;de Dortmund;203;3;0;1.33;0.00;2.8;0.4;1.24;0.20
+Gabriel Jesus;FW;eng Manchester City;83;3;1;3.25;1.08;1.1;0.1;1.25;0.07
+Donyell Malen;FW;de Dortmund;390;3;0;0.69;0.00;1.8;0.7;0.42;0.15
+Darwin Núñez;FW;pt Benfica;265;3;0;1.02;0.00;1.9;0.3;0.64;0.10
+Noah Okafor;FW;at RB Salzburg;341;3;0;0.79;0.00;1.6;1.0;0.42;0.27
+Paulinho;FW;pt Sporting CP;501;3;1;0.54;0.18;2.6;0.5;0.47;0.10
+Marco Reus;FW,MF;de Dortmund;497;3;1;0.54;0.18;2.9;0.5;0.53;0.09
+André Silva;FW;de RB Leipzig;407;3;2;0.66;0.44;2.9;0.9;0.63;0.20
+Raheem Sterling;FW;eng Manchester City;372;3;2;0.73;0.48;2.9;0.9;0.69;0.22
+Hans Vanaken;MF;be Club Brugge;540;3;1;0.50;0.17;2.0;0.7;0.34;0.11
+Timo Werner;FW;eng Chelsea;153;3;1;1.76;0.59;2.0;1.3;1.19;0.79
+Duván Zapata;FW;it Atalanta;464;3;3;0.58;0.58;3.0;0.9;0.58;0.17
+Antony;FW;nl Ajax;394;2;5;0.46;1.14;1.1;2.0;0.26;0.46
+Sardar Azmoun;FW;ru Zenit;304;2;0;0.59;0.00;1.8;0.6;0.54;0.18
+João Cancelo;DF;eng Manchester City;540;2;3;0.33;0.50;0.7;2.3;0.12;0.39
+Étienne Capoue;MF;es Villarreal;509;2;1;0.35;0.18;1.3;0.1;0.22;0.01
+Federico Chiesa;FW,MF;it Juventus;334;2;0;0.54;0.00;1.3;0.2;0.36;0.04
+Claudinho;MF,FW;ru Zenit;456;2;0;0.39;0.00;1.0;1.0;0.20;0.19
+Sebastián Coates;DF;pt Sporting CP;450;2;0;0.40;0.00;0.9;0.0;0.18;0.00
+Kingsley Coman;FW,DF;de Bayern Munich;383;2;2;0.47;0.47;1.1;3.2;0.27;0.76
+Luis Díaz;MF,FW;pt Porto;521;2;0;0.35;0.00;0.8;1.5;0.13;0.26
+Fernando;FW;ua Shakhtar;346;2;0;0.52;0.00;1.3;0.2;0.35;0.04
+Phil Foden;FW;eng Manchester City;290;2;1;0.62;0.31;2.1;0.8;0.66;0.26
+Emil Forsberg;MF,FW;de RB Leipzig;383;2;2;0.47;0.47;1.4;0.9;0.33;0.21
+Serge Gnabry;FW,DF;de Bayern Munich;274;2;1;0.66;0.33;2.1;1.3;0.68;0.44
+Jorginho;MF;eng Chelsea;406;2;0;0.44;0.00;1.5;0.2;0.34;0.05
+Vinicius Júnior;FW;es Real Madrid;609;2;3;0.30;0.44;2.1;2.2;0.31;0.33
+Toni Kroos;MF;es Real Madrid;449;2;0;0.40;0.00;0.4;0.5;0.09;0.10
+Romelu Lukaku;FW;eng Chelsea;276;2;0;0.65;0.00;1.7;0.6;0.56;0.19
+Sadio Mané;FW;eng Liverpool;392;2;1;0.46;0.23;1.8;0.4;0.42;0.09
+Álvaro Morata;FW;it Juventus;342;2;0;0.53;0.00;1.9;1.0;0.51;0.27
+Thomas Müller;MF,FW;de Bayern Munich;536;2;2;0.34;0.34;0.8;2.0;0.13;0.33
+Lukas Nmecha;FW,MF;de Wolfsburg;324;2;0;0.56;0.00;1.1;0.4;0.30;0.11
+Jordan Pefok;FW;ch Young Boys;339;2;0;0.53;0.00;1.9;0.1;0.50;0.03
+Ivan Rakitić;MF;es Sevilla;276;2;1;0.65;0.33;1.9;0.3;0.61;0.09
+Mats Rits;MF;be Club Brugge;413;2;0;0.44;0.00;1.4;0.0;0.30;0.01
+Rodrygo;FW;es Real Madrid;307;2;2;0.59;0.59;1.1;1.2;0.34;0.36
+Pablo Sarabia;FW,MF;pt Sporting CP;449;2;1;0.40;0.20;1.4;1.3;0.29;0.26
+Bernardo Silva;MF,FW;eng Manchester City;451;2;2;0.40;0.40;1.2;0.5;0.25;0.11
+Renato Steffen;FW;de Wolfsburg;258;2;0;0.70;0.00;0.5;0.1;0.19;0.02
+Dominik Szoboszlai;FW,DF;de RB Leipzig;210;2;0;0.86;0.00;1.9;0.6;0.80;0.26
+Sébastien Thill;MF;md Sheriff Tiraspol;540;2;1;0.33;0.17;0.3;0.9;0.06;0.15
+Adama Traoré;FW,MF;md Sheriff Tiraspol;529;2;1;0.34;0.17;0.6;0.1;0.10;0.01
+Georginio Wijnaldum;MF;fr Paris S-G;262;2;0;0.69;0.00;1.6;0.4;0.54;0.13
+Burak Yılmaz;FW;fr Lille;413;2;0;0.44;0.00;2.1;0.0;0.46;0.00
+Chikwubuike Adamu;FW;at RB Salzburg;177;1;0;0.51;0.00;0.7;0.2;0.33;0.10
+Nathan Aké;DF;eng Manchester City;218;1;0;0.41;0.00;0.5;0.0;0.20;0.00
+David Alaba;DF;es Real Madrid;604;1;0;0.15;0.00;0.1;0.3;0.02;0.05
+Paco Alcácer;FW;es Villarreal;57;1;0;1.58;0.00;0.6;0.0;0.95;0.00
+Thiago Alcántara;MF;eng Liverpool;199;1;0;0.45;0.00;0.0;0.1;0.02;0.03
+Marco Asensio;FW;es Real Madrid;105;1;1;0.86;0.86;0.5;0.4;0.45;0.33
+Ridle Baku;DF,FW;de Wolfsburg;411;1;0;0.22;0.00;0.5;0.1;0.12;0.02
+Jude Bellingham;MF,FW;de Dortmund;500;1;3;0.18;0.54;1.3;1.3;0.23;0.24
+Daley Blind;DF;nl Ajax;409;1;1;0.22;0.22;0.2;0.4;0.05;0.10
+Marcelo Brozović;MF;it Inter;557;1;0;0.16;0.00;0.4;0.5;0.07;0.09
+Trevoh Chalobah;DF;eng Chelsea;119;1;0;0.76;0.00;0.4;0.0;0.30;0.03
+Andreas Christensen;DF;eng Chelsea;434;1;1;0.21;0.21;0.2;0.8;0.03;0.17
+Samuel Chukwueze;MF;es Villarreal;51;1;0;1.76;0.00;0.7;0.1;1.15;0.12
+Ángel Correa;FW,MF;es Atlético Madrid;262;1;0;0.34;0.00;0.5;0.3;0.18;0.09
+Rodrigo De Paul;MF;es Atlético Madrid;435;1;0;0.21;0.00;1.1;1.2;0.22;0.26
+Merih Demiral;DF;it Atalanta;370;1;0;0.24;0.00;0.2;0.0;0.05;0.00
+Brahim Díaz;MF;it Milan;348;1;1;0.26;0.26;1.1;0.5;0.29;0.13
+Ansu Fati;FW;es Barcelona;154;1;0;0.58;0.00;0.6;0.1;0.36;0.07
+Remo Freuler;MF;it Atalanta;524;1;1;0.17;0.17;0.2;0.4;0.03;0.07
+Idrissa Gana Gueye;MF;fr Paris S-G;379;1;0;0.24;0.00;0.4;0.2;0.09;0.04
+Rachid Ghezzal;FW,MF;tr Beşiktaş;343;1;0;0.26;0.00;1.3;1.2;0.34;0.30
+Gilberto;DF;pt Benfica;356;1;0;0.25;0.00;0.3;0.1;0.09;0.02
+Angel Gomes;MF;fr Lille;154;1;1;0.58;0.58;0.5;0.4;0.27;0.24
+Robin Gosens;DF;it Atalanta;100;1;0;0.90;0.00;0.7;0.0;0.65;0.00
+Jack Grealish;FW;eng Manchester City;394;1;1;0.23;0.23;0.7;1.3;0.16;0.31
+Mason Greenwood;FW;eng Manchester Utd;303;1;1;0.30;0.30;0.1;0.8;0.02;0.22
+Denys Harmash;FW;ua Dynamo Kyiv;324;1;0;0.28;0.00;0.6;0.2;0.18;0.05
+Kai Havertz;FW;eng Chelsea;292;1;0;0.31;0.00;1.3;0.3;0.39;0.09
+Silvan Hefti;DF;ch Young Boys;385;1;1;0.23;0.23;0.1;0.9;0.02;0.21
+Jordan Henderson;MF;eng Liverpool;395;1;1;0.23;0.23;0.4;0.3;0.09;0.07
+Ander Herrera;MF;fr Paris S-G;326;1;0;0.28;0.00;0.3;0.5;0.10;0.14
+Callum Hudson-Odoi;FW,DF;eng Chelsea;288;1;2;0.31;0.62;0.6;1.1;0.20;0.35
+Jonathan Ikone;MF;fr Lille;297;1;2;0.30;0.61;1.1;0.9;0.34;0.28
+Josip Iličić;FW,MF;it Atalanta;248;1;1;0.36;0.36;0.1;1.1;0.05;0.40
+Reece James;DF,MF;eng Chelsea;296;1;0;0.30;0.00;0.4;0.4;0.11;0.11
+Joan Jordán;MF;es Sevilla;326;1;0;0.28;0.00;0.4;0.3;0.10;0.08
+Diogo Jota;FW;eng Liverpool;320;1;0;0.28;0.00;2.2;0.2;0.61;0.05
+Moise Kean;FW;it Juventus;167;1;0;0.54;0.00;2.3;0.2;1.22;0.12
+Naby Keïta;MF;eng Liverpool;174;1;0;0.52;0.00;0.1;0.3;0.05;0.13
+Davy Klaassen;MF;nl Ajax;208;1;1;0.43;0.43;0.7;0.2;0.28;0.08
+Dejan Kulusevski;FW;it Juventus;85;1;0;1.06;0.00;0.2;0.7;0.17;0.71
+Daler Kuzyaev;MF;ru Zenit;255;1;0;0.35;0.00;0.2;0.2;0.08;0.07
+Cyle Larin;FW,MF;tr Beşiktaş;350;1;0;0.26;0.00;1.4;0.0;0.36;0.01
+Rafael Leão;FW;it Milan;291;1;1;0.31;0.31;0.1;0.3;0.02;0.10
+José Luis Palomino;DF;it Atalanta;450;1;1;0.20;0.20;0.2;0.3;0.04;0.06
+Harry Maguire;DF;eng Manchester Utd;360;1;0;0.25;0.00;0.5;0.0;0.12;0.00
+Ruslan Malinovskyi;FW,MF;it Atalanta;301;1;0;0.30;0.00;0.5;1.0;0.15;0.29
+Eric Maxim Choupo-Moting;FW;de Bayern Munich;26;1;0;3.46;0.00;0.4;0.0;1.32;0.00
+Elia Meschak;FW;ch Young Boys;486;1;0;0.19;0.00;1.9;0.6;0.35;0.11
+Junior Messias;FW,MF;it Milan;116;1;0;0.78;0.00;0.3;0.1;0.21;0.10
+Rafa Mir;FW;es Sevilla;272;1;1;0.33;0.33;1.3;0.1;0.43;0.02
+Francisco Montero;DF;tr Beşiktaş;305;1;0;0.30;0.00;0.1;0.0;0.04;0.00
+Morato;DF;pt Benfica;180;1;0;0.50;0.00;0.1;0.0;0.04;0.00
+Alberto Moreno;MF,DF;es Villarreal;233;1;0;0.39;0.00;0.5;0.6;0.17;0.25
+Gerard Moreno;FW;es Villarreal;259;1;3;0.35;1.04;1.4;1.6;0.49;0.57
+Nordi Mukiele;DF;de RB Leipzig;483;1;1;0.19;0.19;0.5;0.3;0.09;0.06
+Luis Muriel;FW,MF;it Atalanta;132;1;0;0.68;0.00;0.4;0.0;0.25;0.03
+Jamal Musiala;FW,MF;de Bayern Munich;213;1;1;0.42;0.42;0.6;0.0;0.25;0.00
+David Neres;FW;nl Ajax;205;1;0;0.44;0.00;0.9;0.7;0.38;0.29
+Moumi Ngamaleu;MF,FW;ch Young Boys;531;1;1;0.17;0.17;1.0;0.9;0.16;0.16
+Boban Nikolov;MF;md Sheriff Tiraspol;99;1;0;0.91;0.00;0.6;0.0;0.57;0.01
+Lucas Ocampos;FW;es Sevilla;461;1;1;0.20;0.20;1.0;0.9;0.20;0.17
+Sérgio Oliveira;MF;pt Porto;298;1;0;0.30;0.00;0.8;0.5;0.25;0.14
+Divock Origi;FW;eng Liverpool;176;1;1;0.51;0.51;0.6;0.4;0.33;0.22
+Magomed Ozdoyev;MF;ru Zenit;12;1;0;7.50;0.00;0.1;0.0;0.45;0.00
+Cole Palmer;MF,FW;eng Manchester City;42;1;0;2.14;0.00;0.4;0.0;0.92;0.09
+Mario Pašalić;MF,FW;it Atalanta;219;1;1;0.41;0.41;0.7;0.3;0.29;0.11
+Matteo Pessina;MF,FW;it Atalanta;211;1;0;0.43;0.00;0.9;0.1;0.40;0.06
+Yeremi Pino;MF,DF;es Villarreal;361;1;0;0.25;0.00;0.6;0.2;0.16;0.04
+Gerard Piqué;DF;es Barcelona;392;1;0;0.23;0.00;0.3;0.0;0.07;0.00
+Pedro Porro;DF;pt Sporting CP;447;1;0;0.20;0.00;0.6;0.6;0.12;0.13
+Yaroslav Rakitskiy;DF;ru Zenit;494;1;2;0.18;0.36;1.0;0.3;0.18;0.05
+Marcus Rashford;FW,MF;eng Manchester Utd;158;1;0;0.57;0.00;0.7;0.0;0.41;0.00
+Ante Rebić;FW;it Milan;115;1;0;0.78;0.00;0.6;0.5;0.44;0.39
+Fabian Rieder;MF,FW;ch Young Boys;272;1;1;0.33;0.33;0.6;0.3;0.21;0.09
+Søren Rieks;DF;se Malmö;220;1;0;0.41;0.00;0.3;0.0;0.11;0.00
+Alexis Sánchez;FW;it Inter;97;1;0;0.93;0.00;0.1;0.1;0.14;0.12
+Jadon Sancho;FW;eng Manchester Utd;221;1;0;0.41;0.00;0.7;0.1;0.29;0.04
+Alex Sandro;DF;it Juventus;507;1;0;0.18;0.00;0.5;0.2;0.09;0.04
+Nuno Santos;FW,MF;pt Sporting CP;207;1;0;0.43;0.00;0.4;0.5;0.19;0.21
+Vincent Sierro;MF;ch Young Boys;240;1;0;0.37;0.00;0.3;0.4;0.10;0.14
+Rafa Silva;FW,MF;pt Benfica;431;1;0;0.21;0.00;1.2;1.0;0.24;0.20
+Milan Škriniar;DF;it Inter;630;1;0;0.14;0.00;1.8;0.0;0.25;0.01
+Luis Suárez;FW;es Atlético Madrid;337;1;0;0.27;0.00;1.8;0.2;0.48;0.05
+Luka Sučić;MF;at RB Salzburg;468;1;0;0.19;0.00;2.0;0.4;0.39;0.07
+Aleksei Sutormin;DF;ru Zenit;293;1;0;0.31;0.00;0.1;0.0;0.03;0.01
+Bruno Tabata;FW;pt Sporting CP;113;1;1;0.80;0.80;0.3;0.7;0.27;0.52
+Dušan Tadić;FW;nl Ajax;450;1;1;0.20;0.20;1.9;2.5;0.38;0.51
+Mehdi Taremi;FW;pt Porto;490;1;1;0.18;0.18;2.6;0.1;0.48;0.02
+Alex Telles;DF;eng Manchester Utd;178;1;0;0.51;0.00;0.0;0.1;0.01;0.07
+Fikayo Tomori;DF;it Milan;417;1;0;0.22;0.00;0.5;0.0;0.11;0.00
+Manu Trigueros;MF,FW;es Villarreal;224;1;0;0.40;0.00;0.9;0.7;0.35;0.26
+Arturo Vidal;MF;it Inter;320;1;2;0.28;0.56;0.5;0.8;0.15;0.24
+Stefan de Vrij;DF;it Inter;440;1;0;0.20;0.00;0.6;0.0;0.11;0.01
+Kyle Walker;DF;eng Manchester City;431;1;0;0.21;0.00;0.2;0.2;0.04;0.04
+Wendel;MF;ru Zenit;481;1;0;0.19;0.00;0.5;0.3;0.09;0.06
+Maximilian Wöber;DF;at RB Salzburg;481;1;0;0.19;0.00;0.6;0.0;0.11;0.00
+Momo Yansané;FW;md Sheriff Tiraspol;157;1;0;0.57;0.00;0.3;0.1;0.18;0.07
+Roman Yaremchuk;FW;pt Benfica;409;1;0;0.22;0.00;1.6;0.4;0.35;0.10
+Jasur Yaxshiboyev;FW;md Sheriff Tiraspol;202;1;0;0.45;0.00;0.3;0.0;0.14;0.00
+Hakim Ziyech;FW,MF;eng Chelsea;312;1;1;0.29;0.29;1.5;1.3;0.44;0.38
+Brenden Aaronson;MF;at RB Salzburg;624;0;1;0.00;0.14;0.6;0.8;0.09;0.11
+Malik Abubakari;FW;se Malmö;119;0;0;0.00;0.00;0.1;0.0;0.07;0.02
+Marcos Acuña;DF;es Sevilla;378;0;0;0.00;0.00;0.0;0.6;0.00;0.14
+Tyler Adams;MF;de RB Leipzig;293;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Antonio Adán;GK;pt Sporting CP;540;0;0;0.00;0.00;0.0;0.1;0.00;0.02
+Edmund Addo;MF;md Sheriff Tiraspol;488;0;0;0.00;0.00;0.0;0.3;0.00;0.05
+Michel Aebischer;MF;ch Young Boys;502;0;1;0.00;0.18;0.3;0.8;0.05;0.15
+Sergio Agüero;FW;es Barcelona;16;0;0;0.00;0.00;0.0;0.0;0.12;0.00
+Anel Ahmedhodzic;DF;se Malmö;412;0;0;0.00;0.00;0.0;0.1;0.00;0.01
+Manuel Akanji;DF;de Dortmund;450;0;0;0.00;0.00;0.0;0.1;0.01;0.02
+Jordi Alba;DF;es Barcelona;373;0;1;0.00;0.24;0.2;0.8;0.05;0.19
+Raúl Albiol;DF;es Villarreal;514;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Trent Alexander-Arnold;DF;eng Liverpool;353;0;2;0.00;0.51;0.1;0.7;0.03;0.19
+Alisson;GK;eng Liverpool;630;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+André Almeida;DF;pt Benfica;235;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Marcos Alonso;DF;eng Chelsea;259;0;0;0.00;0.00;0.4;0.5;0.14;0.18
+Éder Álvarez Balanta;MF;be Club Brugge;405;0;0;0.00;0.00;0.0;0.2;0.00;0.05
+Edson Álvarez;MF;nl Ajax;386;0;0;0.00;0.00;0.1;0.0;0.03;0.01
+Mohamed Aly Camara;DF;ch Young Boys;346;0;0;0.00;0.00;0.1;0.0;0.04;0.00
+Benjamin André;MF;fr Lille;450;0;0;0.00;0.00;0.1;0.3;0.02;0.07
+Oleksandr Andriyevskyi;MF;ua Dynamo Kyiv;95;0;0;0.00;0.00;0.0;0.0;0.00;0.02
+Angeliño;DF;de RB Leipzig;430;0;3;0.00;0.63;0.3;1.0;0.06;0.20
+Marcos Antônio;MF;ua Shakhtar;256;0;0;0.00;0.00;0.0;0.1;0.01;0.05
+Ronald Araújo;DF;es Barcelona;367;0;0;0.00;0.00;0.2;0.0;0.04;0.00
+Danilo Arboleda;DF;md Sheriff Tiraspol;540;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Maximilian Arnold;MF;de Wolfsburg;540;0;3;0.00;0.50;0.2;1.0;0.03;0.17
+Kepa Arrizabalaga;GK;eng Chelsea;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Giorgos Athanasiadis;GK;md Sheriff Tiraspol;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ludwig Augustinsson;DF;es Sevilla;80;0;0;0.00;0.00;0.0;0.1;0.00;0.14
+César Azpilicueta;DF;eng Chelsea;407;0;1;0.00;0.22;0.1;0.1;0.02;0.02
+Eric Bailly;DF;eng Manchester Utd;180;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Tiemoué Bakayoko;MF;it Milan;59;0;0;0.00;0.00;0.3;0.2;0.41;0.35
+Alejandro Balde;DF,FW;es Barcelona;21;0;0;0.00;0.00;0.0;0.0;0.15;0.12
+Gareth Bale;FW;es Real Madrid;4;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+David von Ballmoos;GK;ch Young Boys;270;0;0;0.00;0.00;0.0;0.2;0.00;0.06
+Fodé Ballo-Touré;DF,MF;it Milan;91;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jonathan Bamba;MF;fr Lille;302;0;0;0.00;0.00;0.2;0.3;0.07;0.10
+Nicolò Barella;MF;it Inter;493;0;0;0.00;0.00;0.7;1.1;0.12;0.21
+Ross Barkley;MF;eng Chelsea;97;0;0;0.00;0.00;0.1;0.3;0.14;0.31
+Wílmar Barrios;MF,DF;ru Zenit;540;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Alessandro Bastoni;DF;it Inter;577;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Michy Batshuayi;FW;tr Beşiktaş;384;0;0;0.00;0.00;1.6;0.1;0.37;0.03
+Donny van de Beek;MF;eng Manchester Utd;204;0;0;0.00;0.00;0.1;0.0;0.04;0.00
+Ismaël Bennacer;MF;it Milan;375;0;0;0.00;0.00;0.1;0.1;0.03;0.02
+Rodrigo Bentancur;MF,FW;it Juventus;378;0;1;0.00;0.24;0.1;0.4;0.02;0.09
+Federico Bernardeschi;FW,MF;it Juventus;281;0;2;0.00;0.64;0.7;1.6;0.21;0.51
+Bernardo;DF,MF;at RB Salzburg;25;0;1;0.00;3.60;0.0;0.0;0.17;0.00
+Paulo Bernardo;MF;pt Benfica;23;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Veljko Birmančević;FW,MF;se Malmö;352;0;1;0.00;0.26;0.1;0.3;0.04;0.07
+Blanco;MF;es Real Madrid;7;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Valerii Bondar;DF;ua Shakhtar;90;0;0;0.00;0.00;0.3;0.0;0.31;0.02
+Artem Bondarenko;MF;ua Shakhtar;84;0;0;0.00;0.00;0.2;0.1;0.17;0.14
+Solomon Bonnah;DF;de RB Leipzig;11;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Leonardo Bonucci;DF;it Juventus;534;0;0;0.00;0.00;0.0;0.1;0.00;0.02
+Sebastiaan Bornauw;DF;de Wolfsburg;205;0;0;0.00;0.00;0.1;0.0;0.04;0.00
+Sven Botman;DF;fr Lille;270;0;0;0.00;0.00;0.2;0.1;0.06;0.02
+Yassine Bounou;GK;es Sevilla;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Denys Boyko;GK;ua Dynamo Kyiv;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Can Bozdogan;MF;tr Beşiktaş;219;0;0;0.00;0.00;0.0;0.5;0.02;0.21
+Conor Bradley;FW;eng Liverpool;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Daniel Bragança;MF,FW;pt Sporting CP;133;0;0;0.00;0.00;0.5;0.0;0.31;0.02
+Julian Brandt;MF,FW;de Dortmund;395;0;0;0.00;0.00;0.3;0.7;0.06;0.16
+Brian Brobbey;FW,MF;de RB Leipzig;108;0;0;0.00;0.00;0.0;0.0;0.02;0.03
+John Brooks;DF;de Wolfsburg;329;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Franz Brorsson;DF;se Malmö;446;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Nicolas Bürgy;DF;ch Young Boys;180;0;0;0.00;0.00;0.3;0.0;0.15;0.00
+Heorhiy Bushchan;GK;ua Dynamo Kyiv;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Sergio Busquets;MF;es Barcelona;485;0;0;0.00;0.00;0.0;0.3;0.01;0.05
+Vitaliy Buyalskyi;MF,FW;ua Dynamo Kyiv;434;0;0;0.00;0.00;0.5;1.2;0.10;0.24
+Jovane Cabral;FW,MF;pt Sporting CP;81;0;0;0.00;0.00;0.0;0.4;0.00;0.45
+Davide Calabria;DF;it Milan;315;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Hakan Çalhanoğlu;MF;it Inter;334;0;0;0.00;0.00;0.1;1.5;0.03;0.40
+Mohamed Camara;MF;at RB Salzburg;603;0;0;0.00;0.00;0.1;0.1;0.01;0.01
+Eduardo Camavinga;MF,DF;es Real Madrid;134;0;1;0.00;0.67;0.0;0.2;0.00;0.16
+Emre Can;DF;de Dortmund;73;0;0;0.00;0.00;0.0;0.1;0.00;0.10
+Nicolás Capaldo;MF;at RB Salzburg;196;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Fábio Cardoso;DF;pt Porto;156;0;0;0.00;0.00;0.1;0.1;0.05;0.05
+Diego Carlos;DF;es Sevilla;539;0;0;0.00;0.00;0.2;0.0;0.03;0.00
+Yannick Carrasco;DF,MF;es Atlético Madrid;449;0;0;0.00;0.00;0.6;0.2;0.11;0.04
+Dani Carvajal;DF;es Real Madrid;380;0;1;0.00;0.24;0.3;0.5;0.06;0.12
+Casemiro;MF;es Real Madrid;578;0;0;0.00;0.00;0.5;0.3;0.07;0.05
+Frank Castañeda;FW;md Sheriff Tiraspol;355;0;0;0.00;0.00;0.2;0.2;0.05;0.06
+Koen Casteels;GK;de Wolfsburg;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Edinson Cavani;FW,MF;eng Manchester Utd;63;0;0;0.00;0.00;0.2;0.0;0.35;0.00
+Dumitru Celeadnic;GK;md Sheriff Tiraspol;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Zeki Çelik;DF;fr Lille;442;0;1;0.00;0.20;0.1;0.1;0.02;0.01
+Giorgio Chiellini;DF;it Juventus;8;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ben Chilwell;DF;eng Chelsea;187;0;0;0.00;0.00;0.6;0.2;0.28;0.11
+Dmitri Chistyakov;DF;ru Zenit;442;0;0;0.00;0.00;0.4;0.0;0.08;0.00
+Anders Christiansen;MF;se Malmö;327;0;0;0.00;0.00;0.6;0.1;0.17;0.01
+Serafim Cojocari;FW;md Sheriff Tiraspol;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Maxim Cojocaru;FW,MF;md Sheriff Tiraspol;17;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Antonio Čolak;FW;se Malmö;498;0;0;0.00;0.00;0.6;0.1;0.11;0.02
+Francisco Conceição;MF,FW;pt Porto;39;0;0;0.00;0.00;0.0;0.0;0.08;0.00
+Francis Coquelin;MF;es Villarreal;167;0;0;0.00;0.00;0.2;0.5;0.11;0.25
+Jesús Corona;DF,FW;pt Porto;214;0;0;0.00;0.00;0.0;0.1;0.00;0.04
+Joaquín Correa;FW;it Inter;95;0;0;0.00;0.00;0.0;0.0;0.02;0.00
+Bruno Xavier Almeida Costa;MF;pt Porto;12;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Diogo Costa;GK;pt Porto;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Thibaut Courtois;GK;es Real Madrid;630;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Philippe Coutinho;FW,MF;es Barcelona;111;0;0;0.00;0.00;0.1;0.0;0.10;0.02
+Juan Cuadrado;DF,MF;it Juventus;292;0;0;0.00;0.00;0.1;0.5;0.03;0.16
+Matheus Cunha;FW;es Atlético Madrid;106;0;0;0.00;0.00;0.6;0.0;0.52;0.00
+Danilo D'Ambrosio;DF;it Inter;102;0;0;0.00;0.00;0.0;0.0;0.00;0.02
+Cosimo Marco Da Graca;FW;it Juventus;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Johan Dahlin;GK;se Malmö;315;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Mahmoud Dahoud;MF;de Dortmund;212;0;2;0.00;0.85;0.3;0.9;0.11;0.39
+Diogo Dalot;DF;eng Manchester Utd;144;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Danilo;DF;it Juventus;270;0;0;0.00;0.00;0.0;0.1;0.00;0.04
+Mohammed Daramy;FW;nl Ajax;53;0;0;0.00;0.00;0.5;0.0;0.84;0.00
+Matteo Darmian;DF;it Inter;181;0;0;0.00;0.00;0.1;0.0;0.04;0.00
+Alphonso Davies;DF;de Bayern Munich;381;0;2;0.00;0.47;0.1;0.5;0.02;0.11
+Kevin De Bruyne;MF;eng Manchester City;415;0;2;0.00;0.43;1.0;1.6;0.21;0.34
+Charles De Ketelaere;FW;be Club Brugge;496;0;1;0.00;0.18;0.9;1.6;0.17;0.28
+Mattia De Sciglio;DF;it Juventus;110;0;1;0.00;0.82;0.0;0.4;0.00;0.35
+Koni De Winter;DF;it Juventus;81;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Thomas Delaney;MF;es Sevilla;200;0;0;0.00;0.00;0.0;0.1;0.01;0.02
+Liam Delap;FW;eng Manchester City;6;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ousmane Dembélé;FW,DF;es Barcelona;123;0;0;0.00;0.00;0.4;0.1;0.30;0.09
+Yusuf Demir;DF,FW;es Barcelona;102;0;0;0.00;0.00;0.1;0.0;0.05;0.02
+Dentinho;FW;ua Shakhtar;5;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Memphis Depay;FW;es Barcelona;524;0;0;0.00;0.00;0.5;1.4;0.08;0.24
+Sergiño Dest;DF,FW;es Barcelona;230;0;0;0.00;0.00;0.6;0.0;0.24;0.01
+Ersin Destanoğlu;GK;tr Beşiktaş;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ángel Di María;FW;fr Paris S-G;249;0;1;0.00;0.36;1.0;1.3;0.35;0.49
+Boulaye Dia;FW;es Villarreal;161;0;0;0.00;0.00;0.9;0.1;0.49;0.05
+Abdou Diallo;DF;fr Paris S-G;164;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Amad Diallo;MF;eng Manchester Utd;67;0;0;0.00;0.00;0.1;0.0;0.19;0.00
+Rúben Dias;DF;eng Manchester City;454;0;0;0.00;0.00;0.4;0.1;0.09;0.02
+Ismael Diawara;GK;se Malmö;225;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Luis Díaz;FW;eng Liverpool;32;0;0;0.00;0.00;0.2;0.0;0.47;0.00
+Virgil van Dijk;DF;eng Liverpool;360;0;1;0.00;0.25;0.1;0.0;0.01;0.00
+Federico Dimarco;DF;it Inter;282;0;0;0.00;0.00;0.3;1.5;0.10;0.47
+Junior Dina Ebimbe;MF;fr Paris S-G;7;0;0;0.00;0.00;0.1;0.0;1.58;0.00
+Tiago Djaló;DF;fr Lille;368;0;0;0.00;0.00;0.2;0.0;0.05;0.01
+Berat Djimsiti;DF;it Atalanta;260;0;0;0.00;0.00;0.3;0.0;0.10;0.02
+Dodô;DF;ua Shakhtar;540;0;0;0.00;0.00;0.9;0.6;0.14;0.10
+Gianluigi Donnarumma;GK;fr Paris S-G;360;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Bas Dost;FW;be Club Brugge;70;0;0;0.00;0.00;0.3;0.1;0.39;0.11
+Julian Draxler;FW,MF;fr Paris S-G;140;0;0;0.00;0.00;0.4;0.1;0.25;0.08
+Gustavo Dulanto;DF;md Sheriff Tiraspol;540;0;0;0.00;0.00;0.4;0.0;0.07;0.01
+Denzel Dumfries;DF;it Inter;392;0;1;0.00;0.23;0.5;0.5;0.11;0.11
+Artem Dzyuba;FW;ru Zenit;278;0;1;0.00;0.32;1.8;0.5;0.60;0.18
+Ederson;GK;eng Manchester City;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Noah Eile;DF;se Malmö;4;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Anthony Elanga;FW,MF;eng Manchester Utd;90;0;0;0.00;0.00;0.5;0.0;0.46;0.00
+Harvey Elliott;MF;eng Liverpool;58;0;0;0.00;0.00;0.0;0.1;0.00;0.09
+Youssef En-Nesyri;FW,MF;es Sevilla;83;0;0;0.00;0.00;0.6;0.0;0.63;0.00
+Aleksandr Erokhin;MF;ru Zenit;109;0;0;0.00;0.00;0.2;0.0;0.15;0.00
+Ricardo Esgaio;DF;pt Sporting CP;373;0;2;0.00;0.48;0.1;0.3;0.02;0.06
+Dario Essugo;MF;pt Sporting CP;10;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Gonçalo Esteves;DF;pt Sporting CP;72;0;0;0.00;0.00;0.0;0.2;0.04;0.20
+Pervis Estupiñán;DF;es Villarreal;214;0;0;0.00;0.00;0.0;0.1;0.01;0.04
+Evanilson;FW;pt Porto;310;0;0;0.00;0.00;0.5;0.1;0.15;0.03
+Fabinho;MF;eng Liverpool;372;0;0;0.00;0.00;0.1;0.2;0.03;0.04
+Guillaume Faivre;GK;ch Young Boys;270;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Christian Fassnacht;MF,FW;ch Young Boys;269;0;0;0.00;0.00;0.9;0.1;0.30;0.04
+Zouhair Feddal;DF;pt Sporting CP;449;0;0;0.00;0.00;0.1;0.0;0.02;0.01
+Felipe;DF,MF;es Atlético Madrid;289;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+João Félix;FW,MF;es Atlético Madrid;243;0;1;0.00;0.37;0.2;0.4;0.06;0.17
+Bruno Fernandes;MF;eng Manchester Utd;362;0;6;0.00;1.49;0.6;2.9;0.16;0.73
+Fernandinho;MF;eng Manchester City;160;0;1;0.00;0.56;0.1;0.5;0.06;0.29
+Fernando;MF,DF;es Sevilla;540;0;0;0.00;0.00;0.0;0.1;0.01;0.02
+Fernando;DF;md Sheriff Tiraspol;540;0;0;0.00;0.00;0.1;0.1;0.01;0.02
+Alessandro Florenzi;DF,FW;it Milan;92;0;0;0.00;0.00;0.1;0.1;0.06;0.12
+José Fonte;DF;fr Lille;540;0;0;0.00;0.00;0.1;0.1;0.02;0.01
+Juan Foyth;DF;es Villarreal;450;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Lassina Franck Traoré;FW;ua Shakhtar;100;0;0;0.00;0.00;0.1;0.0;0.10;0.03
+Fred;MF;eng Manchester Utd;267;0;0;0.00;0.00;0.5;0.0;0.18;0.00
+Roberto Gagliardini;MF;it Inter;55;0;0;0.00;0.00;0.0;0.1;0.00;0.12
+Eric García;DF;es Barcelona;246;0;0;0.00;0.00;0.1;0.0;0.02;0.01
+Ulisses Garcia;DF;ch Young Boys;434;0;0;0.00;0.00;0.1;0.5;0.02;0.10
+Mario Gaspar;DF;es Villarreal;93;0;0;0.00;0.00;0.0;0.3;0.00;0.32
+David de Gea;GK;eng Manchester Utd;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Yannick Gerhardt;FW;de Wolfsburg;191;0;1;0.00;0.47;0.0;0.9;0.01;0.41
+Daniel Ginczek;MF;de Wolfsburg;3;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Olivier Giroud;FW;it Milan;260;0;0;0.00;0.00;0.3;0.1;0.12;0.02
+Joe Gomez;DF;eng Liverpool;148;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Moi Gómez;MF,FW;es Villarreal;224;0;1;0.00;0.40;0.2;0.5;0.08;0.21
+Papu Gómez;FW,MF;es Sevilla;320;0;0;0.00;0.00;0.3;0.3;0.07;0.08
+Diogo Gonçalves;DF,FW;pt Benfica;78;0;0;0.00;0.00;0.1;0.2;0.10;0.18
+Nicolás González;MF;es Barcelona;248;0;0;0.00;0.00;0.2;0.8;0.07;0.29
+Leon Goretzka;MF;de Bayern Munich;348;0;0;0.00;0.00;0.6;0.5;0.15;0.14
+Ryan Gravenberch;MF;nl Ajax;540;0;1;0.00;0.17;0.6;0.6;0.11;0.11
+Ivo Grbić;GK;fr Lille;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Álex Grimaldo;DF;pt Benfica;500;0;1;0.00;0.18;0.2;0.2;0.03;0.04
+Marko Grujić;MF;pt Porto;320;0;1;0.00;0.28;0.4;0.3;0.13;0.10
+Gabriel Gudmundsson;DF,MF;fr Lille;150;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Raphaël Guerreiro;DF;de Dortmund;182;0;0;0.00;0.00;0.2;0.1;0.11;0.05
+Josuha Guilavogui;MF,DF;de Wolfsburg;427;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Daouda Guindo;DF;at RB Salzburg;5;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Péter Gulácsi;GK;de RB Leipzig;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+İlkay Gündoğan;MF;eng Manchester City;367;0;2;0.00;0.49;0.6;1.1;0.14;0.28
+Mert Günok;GK;tr Beşiktaş;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Miguel Gutiérrez;DF;es Real Madrid;65;0;0;0.00;0.00;0.0;0.1;0.04;0.11
+Joško Gvardiol;DF;de RB Leipzig;335;0;0;0.00;0.00;0.3;0.1;0.07;0.02
+Munir El Haddadi;FW,MF;es Sevilla;205;0;0;0.00;0.00;0.7;0.1;0.33;0.04
+Amadou Haidara;MF;de RB Leipzig;182;0;0;0.00;0.00;0.1;0.5;0.03;0.26
+Achraf Hakimi;DF;fr Paris S-G;630;0;0;0.00;0.00;0.0;0.5;0.00;0.07
+Samir Handanović;GK;it Inter;630;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Hans Hateboer;DF;it Atalanta;90;0;0;0.00;0.00;0.0;0.0;0.00;0.02
+Eden Hazard;FW;es Real Madrid;85;0;0;0.00;0.00;0.2;0.1;0.25;0.15
+Thorgan Hazard;FW;de Dortmund;141;0;0;0.00;0.00;0.2;0.6;0.12;0.37
+Tom Heaton;GK;eng Manchester Utd;23;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Dean Henderson;GK;eng Manchester Utd;67;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jack Hendry;DF;be Club Brugge;540;0;0;0.00;0.00;0.3;0.1;0.04;0.01
+Benjamin Henrichs;DF;de RB Leipzig;55;0;0;0.00;0.00;0.1;0.0;0.13;0.00
+Mario Hermoso;DF;es Atlético Madrid;422;0;0;0.00;0.00;0.1;0.0;0.01;0.00
+Lucas Hernández;DF;de Bayern Munich;335;0;0;0.00;0.00;0.1;0.0;0.04;0.00
+Theo Hernández;DF;it Milan;450;0;0;0.00;0.00;0.6;0.4;0.11;0.08
+Héctor Herrera;MF,DF;es Atlético Madrid;48;0;0;0.00;0.00;0.1;0.0;0.21;0.00
+Mats Hummels;DF,FW;de Dortmund;355;0;0;0.00;0.00;0.1;0.2;0.02;0.05
+Atiba Hutchinson;MF;tr Beşiktaş;156;0;0;0.00;0.00;0.1;0.1;0.05;0.04
+Vicente Iborra;MF;es Villarreal;11;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Zlatan Ibrahimović;FW;it Milan;163;0;0;0.00;0.00;0.1;0.0;0.06;0.00
+Mauro Icardi;FW;fr Paris S-G;49;0;0;0.00;0.00;0.3;0.1;0.55;0.23
+Gonçalo Inácio;DF;pt Sporting CP;470;0;1;0.00;0.19;0.2;0.0;0.04;0.00
+Jo Inge Berget;DF;se Malmö;437;0;0;0.00;0.00;0.0;0.4;0.00;0.08
+Bonke Innocent;MF;se Malmö;493;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Zidane Iqbal;MF;eng Manchester Utd;2;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ismaily;DF;ua Shakhtar;354;0;0;0.00;0.00;0.1;0.2;0.03;0.05
+José Izquierdo;DF;be Club Brugge;9;0;0;0.00;0.00;0.0;0.0;0.17;0.00
+Curtis Jones;MF,FW;eng Liverpool;110;0;2;0.00;1.64;0.2;0.5;0.14;0.44
+Frenkie de Jong;MF;es Barcelona;522;0;0;0.00;0.00;0.3;1.4;0.06;0.24
+Luuk de Jong;FW;es Barcelona;177;0;0;0.00;0.00;1.3;0.0;0.67;0.00
+Luka Jović;FW;es Real Madrid;114;0;0;0.00;0.00;0.8;0.1;0.66;0.11
+Keston Julien;DF,FW;md Sheriff Tiraspol;55;0;0;0.00;0.00;0.0;0.0;0.02;0.00
+Felix Kalu Nmecha;MF,FW;de Wolfsburg;38;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Pierre Kalulu;DF;it Milan;215;0;0;0.00;0.00;0.1;0.0;0.06;0.01
+Kevin Kampl;MF;de RB Leipzig;270;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Wilfried Kanga;FW;ch Young Boys;79;0;0;0.00;0.00;0.3;0.0;0.29;0.00
+N'Golo Kanté;MF;eng Chelsea;100;0;0;0.00;0.00;0.1;0.4;0.05;0.33
+Kenan Karaman;MF,FW;tr Beşiktaş;266;0;0;0.00;0.00;0.1;0.1;0.05;0.05
+Oleksandr Karavayev;DF,MF;ua Dynamo Kyiv;159;0;0;0.00;0.00;0.1;0.1;0.04;0.04
+Vyacheslav Karavayev;DF;ru Zenit;297;0;0;0.00;0.00;0.2;0.1;0.05;0.02
+Tomasz Kędziora;DF;ua Dynamo Kyiv;363;0;0;0.00;0.00;0.0;0.1;0.00;0.02
+Thilo Kehrer;DF;fr Paris S-G;67;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Mikhail Kerzhakov;GK;ru Zenit;180;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Franck Kessié;MF,FW;it Milan;321;0;1;0.00;0.28;0.3;0.3;0.07;0.10
+Joshua Kimmich;MF;de Bayern Munich;431;0;0;0.00;0.00;0.4;0.7;0.09;0.14
+Presnel Kimpembe;DF;fr Paris S-G;540;0;0;0.00;0.00;0.0;0.1;0.00;0.01
+Simon Kjær;DF;it Milan;270;0;0;0.00;0.00;0.2;0.0;0.07;0.00
+Maurits Kjærgaard;MF,FW;at RB Salzburg;12;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Lukas Klostermann;DF;de RB Leipzig;355;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Ansgar Knauff;FW,MF;de Dortmund;23;0;0;0.00;0.00;0.2;0.0;0.74;0.00
+Gregor Kobel;GK;de Dortmund;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Philipp Köhn;GK;at RB Salzburg;630;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Koke;MF;es Atlético Madrid;453;0;1;0.00;0.20;0.3;0.1;0.06;0.02
+Aleksandar Kolarov;DF;it Inter;6;0;0;0.00;0.00;0.0;0.1;0.00;1.05
+Dimitris Kolovos;MF;md Sheriff Tiraspol;402;0;0;0.00;0.00;0.1;0.2;0.02;0.05
+Ibrahima Konaté;DF;eng Liverpool;270;0;0;0.00;0.00;0.1;0.0;0.03;0.00
+Geoffrey Kondogbia;MF,DF;es Atlético Madrid;298;0;0;0.00;0.00;0.1;0.0;0.02;0.01
+Teun Koopmeiners;MF;it Atalanta;212;0;1;0.00;0.42;0.1;0.3;0.05;0.13
+Viktor Korniienko;DF;ua Shakhtar;83;0;0;0.00;0.00;0.0;0.0;0.03;0.05
+Nianzou Kouassi;DF;de Bayern Munich;188;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jules Koundé;DF;es Sevilla;450;0;0;0.00;0.00;0.4;0.0;0.07;0.01
+Mateo Kovačić;MF;eng Chelsea;180;0;0;0.00;0.00;0.1;0.2;0.06;0.08
+Kirill Kravtsov;MF,DF;ru Zenit;16;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Stanislav Kritsyuk;GK;ru Zenit;360;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Danil Krugovoy;DF,FW;ru Zenit;73;0;0;0.00;0.00;0.0;0.1;0.02;0.14
+Rade Krunić;FW,MF;it Milan;250;0;0;0.00;0.00;0.1;0.0;0.05;0.00
+Serhiy Kryvtsov;DF;ua Shakhtar;193;0;1;0.00;0.47;0.0;0.2;0.00;0.09
+Daniil Kuznetsov;MF;ru Zenit;3;0;0;0.00;0.00;0.1;0.0;2.96;0.00
+Maxence Lacroix;DF;de Wolfsburg;540;0;0;0.00;0.00;0.3;0.1;0.04;0.02
+Konrad Laimer;MF;de RB Leipzig;401;0;1;0.00;0.22;0.4;1.0;0.10;0.22
+Érik Lamela;FW,MF;es Sevilla;123;0;0;0.00;0.00;0.1;0.2;0.10;0.18
+Noa Lang;MF,FW;be Club Brugge;527;0;1;0.00;0.17;0.7;0.8;0.12;0.14
+Aymeric Laporte;DF;eng Manchester City;318;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Eric Larsson;DF;se Malmö;275;0;0;0.00;0.00;0.0;0.3;0.00;0.08
+Sandro Lauper;DF;ch Young Boys;463;0;0;0.00;0.00;0.1;0.2;0.01;0.03
+Valentino Lazaro;DF;pt Benfica;115;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jordan Lefort;DF;ch Young Boys;167;0;0;0.00;0.00;0.0;0.4;0.02;0.19
+Thomas Lemar;MF;es Atlético Madrid;269;0;1;0.00;0.33;0.3;0.2;0.10;0.06
+Clément Lenglet;DF;es Barcelona;343;0;0;0.00;0.00;0.4;0.0;0.10;0.00
+Oscar Lewicki;MF;se Malmö;124;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Bohdan Liedniev;MF;ua Dynamo Kyiv;10;0;0;0.00;0.00;0.0;0.2;0.00;1.92
+Matthijs de Ligt;DF;it Juventus;445;0;0;0.00;0.00;0.1;0.0;0.01;0.00
+Isaac Lihadji;MF;fr Lille;25;0;0;0.00;0.00;0.0;0.0;0.00;0.07
+Victor Lindelöf;DF;eng Manchester Utd;360;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jesse Lingard;MF,FW;eng Manchester Utd;109;0;1;0.00;0.83;0.2;0.8;0.17;0.63
+Marcos Llorente;DF,MF;es Atlético Madrid;371;0;0;0.00;0.00;0.1;0.6;0.02;0.14
+Manuel Locatelli;MF;it Juventus;382;0;0;0.00;0.00;0.2;0.5;0.04;0.13
+Renan Lodi;DF;es Atlético Madrid;158;0;1;0.00;0.57;0.1;0.2;0.03;0.11
+Ruben Loftus-Cheek;MF;eng Chelsea;174;0;1;0.00;0.52;0.3;0.9;0.14;0.47
+Matteo Lovato;DF;it Atalanta;45;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Dejan Lovren;DF;ru Zenit;315;0;0;0.00;0.00;0.1;0.0;0.02;0.01
+Dodi Lukebakio;FW,MF;de Wolfsburg;299;0;0;0.00;0.00;0.1;0.5;0.03;0.15
+Fabian Lustenberger;DF;ch Young Boys;90;0;0;0.00;0.00;0.1;0.0;0.07;0.00
+Quentin Maceiras;DF;ch Young Boys;115;0;0;0.00;0.00;0.2;0.1;0.12;0.04
+Nico Maier;FW;ch Young Boys;4;0;0;0.00;0.00;0.0;0.0;0.89;0.00
+Mike Maignan;GK;it Milan;270;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Malcom;FW,MF;ru Zenit;432;0;1;0.00;0.21;0.8;1.7;0.17;0.35
+Daniel Maldini;FW;it Milan;23;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Felix Mambimbi;FW,MF;ch Young Boys;63;0;0;0.00;0.00;0.1;0.0;0.09;0.00
+Reinildo Mandava;DF;fr Lille;457;0;0;0.00;0.00;0.0;0.1;0.00;0.02
+Aïssa Mandi;DF;es Villarreal;26;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Faitout Maouassa;MF;be Club Brugge;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Iván Marcano;DF;pt Porto;127;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Marcelo;DF;es Real Madrid;53;0;0;0.00;0.00;0.1;0.0;0.11;0.00
+José María Giménez;DF;es Atlético Madrid;405;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Mariano;FW;es Real Madrid;13;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+João Mário Lopes;DF;pt Porto;350;0;0;0.00;0.00;0.0;0.3;0.00;0.07
+João Mário;MF;pt Benfica;460;0;3;0.00;0.59;0.4;0.9;0.07;0.18
+Marlon;DF;ua Shakhtar;450;0;0;0.00;0.00;0.1;0.0;0.03;0.00
+Marlos;FW,MF;ua Shakhtar;209;0;0;0.00;0.00;0.3;0.9;0.12;0.38
+Marquinhos;DF;fr Paris S-G;630;0;1;0.00;0.14;0.0;0.5;0.00;0.07
+Anthony Martial;FW;eng Manchester Utd;67;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Josep Martinez;GK;de RB Leipzig;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Lautaro Martínez;FW;it Inter;506;0;0;0.00;0.00;2.3;1.2;0.40;0.21
+Lisandro Martínez;DF;nl Ajax;540;0;1;0.00;0.17;0.6;0.2;0.11;0.03
+Toni Martínez;FW;pt Porto;146;0;0;0.00;0.00;0.0;0.0;0.02;0.00
+Christopher Martins;MF;ch Young Boys;417;0;0;0.00;0.00;0.1;0.3;0.03;0.06
+Clinton Mata;DF;be Club Brugge;527;0;0;0.00;0.00;0.1;0.4;0.02;0.06
+Juan Mata;MF;eng Manchester Utd;89;0;0;0.00;0.00;0.3;0.0;0.29;0.00
+Nemanja Matić;DF,MF;eng Manchester Utd;151;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Joël Matip;DF;eng Liverpool;450;0;0;0.00;0.00;0.3;0.0;0.05;0.00
+Mykola Matviyenko;DF;ua Shakhtar;360;0;0;0.00;0.00;0.1;0.0;0.03;0.00
+Maycon;MF;ua Shakhtar;474;0;0;0.00;0.00;0.2;0.4;0.04;0.08
+Noussair Mazraoui;DF;nl Ajax;478;0;1;0.00;0.19;0.3;0.8;0.05;0.16
+Kevin Mbabu;DF;de Wolfsburg;328;0;0;0.00;0.00;0.0;0.1;0.01;0.02
+Noah Mbamba;MF;be Club Brugge;58;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Chancel Mbemba;DF;pt Porto;449;0;0;0.00;0.00;0.1;0.0;0.02;0.01
+Weston McKennie;MF;it Juventus;309;0;0;0.00;0.00;1.0;0.2;0.30;0.05
+Scott McTominay;MF;eng Manchester Utd;331;0;0;0.00;0.00;0.4;0.0;0.10;0.00
+Brandon Mechele;DF;be Club Brugge;133;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Soualiho Meïté;MF;pt Benfica;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Arthur Melo;MF;it Juventus;158;0;0;0.00;0.00;0.1;0.1;0.07;0.07
+Nuno Mendes;DF;fr Paris S-G;490;0;0;0.00;0.00;0.1;0.5;0.02;0.09
+Edouard Mendy;GK;eng Chelsea;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ferland Mendy;DF;es Real Madrid;397;0;1;0.00;0.23;0.0;0.3;0.01;0.06
+Teden Mengi;DF;eng Manchester Utd;30;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Umut Meraş;DF;tr Beşiktaş;252;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Thomas Meunier;DF;de Dortmund;483;0;1;0.00;0.19;0.2;0.2;0.04;0.04
+Simon Mignolet;GK;be Club Brugge;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Éder Militão;DF;es Real Madrid;626;0;0;0.00;0.00;0.5;0.0;0.07;0.00
+James Milner;MF,DF;eng Liverpool;148;0;1;0.00;0.61;0.0;0.9;0.02;0.52
+Takumi Minamino;FW,MF;eng Liverpool;217;0;0;0.00;0.00;0.1;0.1;0.02;0.04
+Óscar Mingueza;DF;es Barcelona;222;0;0;0.00;0.00;0.0;0.2;0.00;0.10
+Aleksei Miranchuk;FW,MF;it Atalanta;35;0;1;0.00;2.57;0.0;0.4;0.07;0.94
+Fabio Miretti;MF;it Juventus;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Luka Modrić;MF;es Real Madrid;532;0;1;0.00;0.17;0.8;1.1;0.14;0.18
+Kudus Mohammed;MF;nl Ajax;24;0;0;0.00;0.00;0.1;0.0;0.52;0.00
+Niklas Moisander;DF;se Malmö;188;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Gonzalo Montiel;DF;es Sevilla;187;0;0;0.00;0.00;0.1;0.0;0.05;0.01
+Wesley Moraes;FW;be Club Brugge;28;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ilaix Moriba;MF,FW;de RB Leipzig;63;0;0;0.00;0.00;0.2;0.4;0.25;0.59
+Tyler Morton;MF;eng Liverpool;180;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Andrei Mostovoy;FW,MF;ru Zenit;152;0;0;0.00;0.00;0.3;0.2;0.16;0.12
+Youssoufa Moukoko;FW;de Dortmund;21;0;0;0.00;0.00;0.2;0.0;0.65;0.00
+Mason Mount;FW,MF;eng Chelsea;284;0;0;0.00;0.00;0.5;0.7;0.14;0.22
+Mykhailo Mudryk;FW;ua Shakhtar;182;0;0;0.00;0.00;0.6;0.7;0.31;0.33
+Juan Musso;GK;it Atalanta;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Vitaliy Mykolenko;DF;ua Dynamo Kyiv;450;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Joakim Mæhle;DF;it Atalanta;435;0;1;0.00;0.21;0.1;0.1;0.01;0.02
+Georges-Kévin N'Koudou;FW;tr Beşiktaş;90;0;0;0.00;0.00;0.0;0.2;0.03;0.21
+Fabrice N'Sakala;DF;tr Beşiktaş;270;0;0;0.00;0.00;0.0;0.0;0.01;0.01
+Stanley N'Soki;DF;be Club Brugge;483;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Nacho;DF;es Real Madrid;206;0;0;0.00;0.00;0.2;0.1;0.08;0.04
+Adi Nalic;MF,FW;se Malmö;88;0;0;0.00;0.00;0.0;0.1;0.00;0.07
+Sebastian Nanasi;FW,MF;se Malmö;89;0;0;0.00;0.00;0.1;0.0;0.08;0.03
+Jesús Navas;DF;es Sevilla;330;0;0;0.00;0.00;0.0;0.6;0.01;0.16
+Keylor Navas;GK;fr Paris S-G;270;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Flávio Nazinho;DF;pt Sporting CP;21;0;0;0.00;0.00;0.0;0.0;0.13;0.00
+Luís Neto;DF;pt Sporting CP;280;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Manuel Neuer;GK;de Bayern Munich;540;0;1;0.00;0.17;0.0;0.3;0.00;0.05
+Neymar;FW;fr Paris S-G;379;0;1;0.00;0.24;1.0;0.7;0.23;0.18
+Lasse Nielsen;DF;se Malmö;450;0;0;0.00;0.00;0.1;0.0;0.01;0.00
+Saúl Ñíguez;DF,MF;eng Chelsea;115;0;0;0.00;0.00;0.5;0.0;0.40;0.03
+Rasmus Nissen;DF;at RB Salzburg;630;0;1;0.00;0.14;0.4;0.0;0.06;0.00
+Hugo Novoa;FW;de RB Leipzig;25;0;1;0.00;3.60;0.2;0.3;0.88;0.97
+Matheus Nunes;MF;pt Sporting CP;508;0;2;0.00;0.35;0.0;0.5;0.01;0.08
+Jan Oblak;GK;es Atlético Madrid;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Dani Olmo;MF;de RB Leipzig;88;0;1;0.00;1.02;0.0;0.1;0.02;0.12
+Martin Olsson;DF;se Malmö;288;0;0;0.00;0.00;0.0;0.1;0.01;0.02
+Amadou Onana;MF,FW;fr Lille;163;0;0;0.00;0.00;0.0;0.0;0.02;0.02
+André Onana;GK;nl Ajax;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jérôme Onguéné;DF;at RB Salzburg;436;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Willi Orban;DF;de RB Leipzig;315;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Nicolás Otamendi;DF;pt Benfica;450;0;0;0.00;0.00;0.1;0.2;0.01;0.03
+Otávio;MF;pt Porto;447;0;0;0.00;0.00;1.2;0.8;0.24;0.17
+Paulo Otávio;DF;de Wolfsburg;171;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Alex Oxlade-Chamberlain;MF,FW;eng Liverpool;301;0;1;0.00;0.30;0.7;0.1;0.22;0.04
+Oğuzhan Özyakup;MF;tr Beşiktaş;53;0;0;0.00;0.00;0.0;0.2;0.00;0.33
+Gavi Paez;MF,FW;es Barcelona;397;0;0;0.00;0.00;0.6;0.0;0.14;0.01
+João Palhinha;MF;pt Sporting CP;533;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Leandro Paredes;MF;fr Paris S-G;245;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Daniel Parejo;MF;es Villarreal;538;0;2;0.00;0.33;0.1;1.4;0.01;0.23
+Felix Passlack;DF;de Dortmund;62;0;0;0.00;0.00;0.0;0.0;0.04;0.00
+Remko Pasveer;GK;nl Ajax;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Alan Patrick;MF;ua Shakhtar;266;0;1;0.00;0.34;0.3;0.6;0.11;0.20
+Benjamin Pavard;DF;de Bayern Munich;512;0;1;0.00;0.18;0.3;0.2;0.05;0.03
+Alfonso Pedraza;DF;es Villarreal;255;0;1;0.00;0.35;0.4;0.9;0.13;0.31
+Pedri;MF;es Barcelona;157;0;0;0.00;0.00;0.0;0.0;0.01;0.01
+Pedrinho;MF,FW;ua Shakhtar;342;0;0;0.00;0.00;0.8;0.4;0.21;0.11
+Carlos de Pena;FW,MF;ua Dynamo Kyiv;373;0;0;0.00;0.00;0.3;0.3;0.08;0.08
+Rubén Peña;MF,FW;es Villarreal;18;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Sergio Peña;MF,FW;se Malmö;280;0;0;0.00;0.00;0.1;0.2;0.03;0.06
+Pepe;DF;pt Porto;347;0;0;0.00;0.00;0.1;0.5;0.03;0.13
+Pepê;FW,MF;pt Porto;37;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Danilo Pereira;MF;fr Paris S-G;282;0;0;0.00;0.00;0.3;0.0;0.08;0.00
+Mattia Perin;GK;it Juventus;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ivan Perišić;DF;it Inter;440;0;1;0.00;0.20;0.9;1.3;0.19;0.26
+Pavao Pervan;GK;de Wolfsburg;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Giuseppe Pezzella;DF,MF;it Atalanta;58;0;0;0.00;0.00;0.0;0.0;0.06;0.00
+Maximilian Philipp;MF,FW;de Wolfsburg;90;0;0;0.00;0.00;0.1;0.0;0.09;0.00
+Nathaniel Phillips;DF;eng Liverpool;91;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Kamil Piątkowski;DF;at RB Salzburg;40;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Pizzi;FW,MF;pt Benfica;158;0;0;0.00;0.00;0.4;0.1;0.20;0.04
+Miralem Pjanić;MF;tr Beşiktaş;260;0;2;0.00;0.69;0.1;1.2;0.04;0.40
+Paul Pogba;MF,FW;eng Manchester Utd;257;0;0;0.00;0.00;0.1;0.2;0.03;0.07
+Marin Pongračić;DF;de Dortmund;174;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Yussuf Poulsen;FW;de RB Leipzig;149;0;1;0.00;0.60;0.4;0.2;0.23;0.14
+Riqui Puig;MF;es Barcelona;18;0;0;0.00;0.00;0.0;0.0;0.00;0.11
+Christian Pulisic;FW,DF;eng Chelsea;113;0;1;0.00;0.80;0.0;0.4;0.00;0.28
+Andriy Pyatov;GK;ua Shakhtar;265;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Dani Raba;DF,FW;es Villarreal;12;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Adrien Rabiot;MF;it Juventus;356;0;0;0.00;0.00;0.2;0.0;0.06;0.00
+Stjepan Radeljić;DF,MF;md Sheriff Tiraspol;81;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Nemanja Radonjić;FW;pt Benfica;32;0;0;0.00;0.00;0.0;0.0;0.09;0.00
+Erdal Rakip;MF;se Malmö;272;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Eric Ramírez;FW,MF;ua Dynamo Kyiv;18;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Gonçalo Ramos;FW;pt Benfica;29;0;0;0.00;0.00;0.0;0.0;0.07;0.00
+Aaron Ramsey;MF,FW;it Juventus;16;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Andrea Ranocchia;DF;it Inter;100;0;0;0.00;0.00;0.4;0.0;0.40;0.00
+Reinier;MF,FW;de Dortmund;126;0;0;0.00;0.00;0.1;0.5;0.10;0.35
+Matheus Reis;DF;pt Sporting CP;517;0;0;0.00;0.00;0.1;0.1;0.02;0.01
+Karim Rekik;DF;es Sevilla;125;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Devyne Rensch;DF;nl Ajax;74;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Federico Ricca;DF;be Club Brugge;166;0;0;0.00;0.00;0.1;0.0;0.07;0.00
+Omar Richards;DF,FW;de Bayern Munich;56;0;0;0.00;0.00;0.0;0.0;0.00;0.05
+Sergi Roberto;DF,FW;es Barcelona;168;0;0;0.00;0.00;0.1;0.2;0.07;0.11
+Andrew Robertson;DF;eng Liverpool;388;0;1;0.00;0.23;0.2;1.2;0.04;0.28
+Marc Roca;MF;de Bayern Munich;55;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Rodri;MF;eng Manchester City;470;0;0;0.00;0.00;0.1;0.1;0.02;0.02
+Óscar Rodríguez Arnaiz;MF;es Sevilla;23;0;0;0.00;0.00;0.0;0.0;0.04;0.00
+Alessio Romagnoli;DF;it Milan;393;0;1;0.00;0.23;0.0;0.0;0.01;0.01
+Iván Romero;FW;es Sevilla;21;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Marten de Roon;MF,DF;it Atalanta;482;0;0;0.00;0.00;0.1;0.1;0.01;0.02
+Valentin Rosier;DF;tr Beşiktaş;405;0;0;0.00;0.00;0.0;0.1;0.01;0.02
+Jérôme Roussillon;DF;de Wolfsburg;361;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Antonio Rüdiger;DF;eng Chelsea;450;0;0;0.00;0.00;0.3;0.0;0.07;0.01
+Daniele Rugani;DF;it Juventus;101;0;0;0.00;0.00;0.0;0.0;0.03;0.00
+Gerónimo Rulli;GK;es Villarreal;540;0;0;0.00;0.00;0.0;0.1;0.00;0.01
+Serdar Saatçı;DF;tr Beşiktaş;90;0;0;0.00;0.00;0.1;0.0;0.13;0.00
+Marcel Sabitzer;MF;de Bayern Munich;136;0;0;0.00;0.00;0.4;0.2;0.28;0.11
+Alexis Saelemaekers;FW;it Milan;443;0;0;0.00;0.00;0.2;0.1;0.04;0.02
+Renato Sanches;MF;fr Lille;324;0;0;0.00;0.00;0.4;0.3;0.11;0.09
+Cisse Sandra;FW;be Club Brugge;55;0;0;0.00;0.00;0.3;0.0;0.50;0.00
+Douglas Santos;DF;ru Zenit;443;0;2;0.00;0.41;0.1;1.2;0.03;0.25
+Zaidu Sanusi;DF;pt Porto;387;0;0;0.00;0.00;0.0;0.2;0.01;0.05
+Bouna Sarr;DF,FW;de Bayern Munich;83;0;0;0.00;0.00;0.2;0.0;0.22;0.00
+Malang Sarr;DF;eng Chelsea;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Charlie Savage;MF;eng Manchester Utd;2;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Stefan Savić;DF;es Atlético Madrid;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Nico Schulz;DF;de Dortmund;196;0;1;0.00;0.46;0.0;0.4;0.00;0.20
+Perr Schuurs;DF;nl Ajax;145;0;1;0.00;0.62;0.1;0.4;0.03;0.23
+Haris Seferović;FW;pt Benfica;10;0;0;0.00;0.00;0.6;0.0;5.61;0.00
+Nicolas Seiwald;MF;at RB Salzburg;601;0;1;0.00;0.15;0.1;0.9;0.02;0.14
+Stefano Sensi;MF;it Inter;11;0;0;0.00;0.00;0.1;0.0;1.16;0.00
+Javier Serrano;MF;es Atlético Madrid;16;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Benjamin Šeško;FW;at RB Salzburg;206;0;0;0.00;0.00;0.3;0.1;0.15;0.02
+Artem Shabanov;DF;ua Dynamo Kyiv;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Mykola Shaparenko;MF;ua Dynamo Kyiv;485;0;0;0.00;0.00;0.6;0.2;0.12;0.05
+Luke Shaw;DF;eng Manchester Utd;330;0;2;0.00;0.55;0.1;0.3;0.02;0.07
+Volodymyr Shepelyev;MF;ua Dynamo Kyiv;55;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Oleksiy Shevchenko;GK;ua Shakhtar;5;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ilya Shkurin;FW;ua Dynamo Kyiv;103;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Shola Shoretire;MF;eng Manchester Utd;23;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Cristiano da Silva Leite;DF;md Sheriff Tiraspol;540;0;3;0.00;0.50;0.4;0.5;0.07;0.08
+Bruno Felipe Souza da Silva;FW,MF;md Sheriff Tiraspol;314;0;0;0.00;0.00;0.3;0.5;0.07;0.14
+Thiago Silva;DF;eng Chelsea;368;0;1;0.00;0.24;0.3;0.1;0.08;0.04
+Mohamed Simakan;DF;de RB Leipzig;295;0;0;0.00;0.00;0.0;0.1;0.01;0.03
+Roko Simic;FW;at RB Salzburg;5;0;0;0.00;0.00;0.0;0.0;0.74;0.00
+Islam Slimani;FW;pt Sporting CP;16;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Everton Soares;FW,MF;pt Benfica;237;0;0;0.00;0.00;0.5;0.5;0.18;0.18
+Eduard Sobol;DF;be Club Brugge;329;0;1;0.00;0.27;0.1;0.2;0.01;0.06
+Oumar Solet;DF;at RB Salzburg;284;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+Manor Solomon;FW,MF;ua Shakhtar;322;0;0;0.00;0.00;0.4;0.5;0.12;0.15
+Josef de Souza;MF;tr Beşiktaş;440;0;0;0.00;0.00;0.1;0.2;0.02;0.04
+Kamal Sowah;MF,DF;be Club Brugge;296;0;0;0.00;0.00;0.2;0.2;0.06;0.06
+Marvin Spielmann;MF;ch Young Boys;9;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Josip Stanišić;DF;de Bayern Munich;23;0;1;0.00;3.91;0.0;0.2;0.00;0.64
+Zack Steffen;GK;eng Manchester City;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Taras Stepanenko;MF;ua Shakhtar;225;0;0;0.00;0.00;0.0;0.0;0.01;0.00
+John Stones;DF;eng Manchester City;330;0;0;0.00;0.00;0.5;0.0;0.13;0.00
+Heorhii Sudakov;MF;ua Shakhtar;57;0;0;0.00;0.00;0.1;0.4;0.15;0.62
+Niklas Süle;DF;de Bayern Munich;427;0;0;0.00;0.00;0.1;0.2;0.01;0.04
+Miralem Sulejmani;MF;ch Young Boys;8;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Vladyslav Supriaha;FW;ua Dynamo Kyiv;81;0;0;0.00;0.00;0.0;0.0;0.00;0.03
+Suso;FW;es Sevilla;225;0;0;0.00;0.00;0.3;0.5;0.11;0.18
+Serhiy Sydorchuk;MF;ua Dynamo Kyiv;535;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Oleksandr Syrota;DF;ua Dynamo Kyiv;450;0;0;0.00;0.00;0.1;0.0;0.01;0.00
+Wojciech Szczęsny;GK;it Juventus;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Adel Taarabt;MF,FW;pt Benfica;82;0;0;0.00;0.00;0.0;0.0;0.00;0.04
+Nicolás Tagliafico;DF;nl Ajax;121;0;1;0.00;0.74;0.0;1.0;0.04;0.74
+Ciprian Tătărușanu;GK;it Milan;270;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Kenneth Taylor;MF;nl Ajax;41;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Alex Teixeira;MF;tr Beşiktaş;182;0;0;0.00;0.00;0.2;0.2;0.10;0.09
+Marc-André ter Stegen;GK;es Barcelona;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Tetê;FW,MF;ua Shakhtar;372;0;0;0.00;0.00;1.0;0.5;0.24;0.12
+Steffen Tigges;FW;de Dortmund;99;0;0;0.00;0.00;0.1;0.0;0.08;0.00
+Malik Tillman;MF,FW;de Bayern Munich;20;0;0;0.00;0.00;0.0;0.3;0.00;1.51
+Jurrien Timber;DF;nl Ajax;393;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Corentin Tolisso;MF;de Bayern Munich;233;0;1;0.00;0.39;0.1;0.1;0.06;0.05
+Rafael Tolói;DF;it Atalanta;360;0;0;0.00;0.00;0.9;1.3;0.22;0.31
+Tiago Tomás;FW,MF;pt Sporting CP;163;0;0;0.00;0.00;0.4;0.0;0.25;0.00
+Sandro Tonali;MF;it Milan;331;0;0;0.00;0.00;0.1;0.0;0.02;0.01
+Mehmet Topal;MF,DF;tr Beşiktaş;260;0;0;0.00;0.00;0.2;0.0;0.08;0.00
+Gökhan Töre;MF,FW;tr Beşiktaş;78;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ferrán Torres;FW;eng Manchester City;70;0;0;0.00;0.00;0.2;0.1;0.28;0.12
+Óliver Torres;MF;es Sevilla;168;0;0;0.00;0.00;0.0;0.1;0.02;0.06
+Pau Torres;DF;es Villarreal;540;0;0;0.00;0.00;0.2;0.5;0.04;0.08
+Kieran Trippier;DF;es Atlético Madrid;219;0;0;0.00;0.00;0.0;0.0;0.00;0.01
+Anatolii Trubin;GK;ua Shakhtar;270;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Kostas Tsimikas;DF;eng Liverpool;242;0;0;0.00;0.00;0.0;0.6;0.00;0.22
+Viktor Tsyhankov;FW,MF;ua Dynamo Kyiv;486;0;1;0.00;0.19;1.1;0.6;0.21;0.11
+Oleksandr Tymchyk;DF;ua Dynamo Kyiv;162;0;0;0.00;0.00;0.1;0.2;0.06;0.10
+Salih Uçan;MF;tr Beşiktaş;113;0;0;0.00;0.00;0.0;0.1;0.00;0.09
+Manuel Ugarte Ribeiro;MF;pt Sporting CP;116;0;0;0.00;0.00;0.0;0.0;0.00;0.02
+Andreas Ulmer;DF;at RB Salzburg;625;0;0;0.00;0.00;0.1;0.1;0.01;0.01
+Sven Ulreich;GK;de Bayern Munich;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Dayot Upamecano;DF;de Bayern Munich;450;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Mateus Uribe;MF;pt Porto;286;0;0;0.00;0.00;0.1;0.0;0.03;0.01
+Necip Uysal;DF;tr Beşiktaş;190;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Jesús Vallejo;DF;es Real Madrid;4;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Federico Valverde;MF,DF;es Real Madrid;215;0;0;0.00;0.00;0.2;0.2;0.07;0.09
+Ignace Van Der Brempt;DF,MF;be Club Brugge;165;0;0;0.00;0.00;0.0;0.2;0.00;0.11
+Raphaël Varane;DF;eng Manchester Utd;172;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Berkay Vardar;DF;tr Beşiktaş;18;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Lucas Vázquez;FW,DF;es Real Madrid;289;0;0;0.00;0.00;0.0;0.8;0.00;0.24
+Matías Vecino;MF;it Inter;118;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Benjamin Verbič;MF,FW;ua Dynamo Kyiv;92;0;0;0.00;0.00;0.2;0.0;0.21;0.01
+Lucas Veríssimo;DF;pt Benfica;270;0;0;0.00;0.00;0.1;0.2;0.03;0.07
+Marco Verratti;MF;fr Paris S-G;340;0;0;0.00;0.00;0.1;0.5;0.02;0.14
+Jan Vertonghen;DF;pt Benfica;540;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Domagoj Vida;DF;tr Beşiktaş;180;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Fabio Vieira;MF,DF;pt Porto;87;0;1;0.00;1.03;0.0;0.2;0.04;0.18
+Rúben Vinagre;DF;pt Sporting CP;64;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+João Virgínia;GK;pt Sporting CP;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Vitão;DF;ua Shakhtar;90;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Vitinha;MF;pt Porto;223;0;0;0.00;0.00;0.2;0.0;0.09;0.00
+Vitinho;FW,MF;ua Dynamo Kyiv;95;0;0;0.00;0.00;0.0;0.0;0.04;0.00
+Odisseas Vlachodimos;GK;pt Benfica;540;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Ruud Vormer;MF;be Club Brugge;159;0;1;0.00;0.57;0.1;0.4;0.03;0.24
+Aster Vranckx;MF,FW;de Wolfsburg;335;0;0;0.00;0.00;0.0;0.1;0.00;0.02
+Šime Vrsaljko;DF;es Atlético Madrid;126;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Luca Waldschmidt;MF,FW;de Wolfsburg;120;0;0;0.00;0.00;0.0;0.0;0.04;0.02
+Aaron Wan-Bissaka;DF,FW;eng Manchester Utd;394;0;0;0.00;0.00;0.1;0.0;0.02;0.00
+Timothy Weah;MF,FW;fr Lille;221;0;0;0.00;0.00;0.1;0.0;0.04;0.00
+Wout Weghorst;FW;de Wolfsburg;396;0;0;0.00;0.00;1.5;0.2;0.33;0.04
+Julian Weigl;MF;pt Benfica;450;0;0;0.00;0.00;0.0;0.6;0.00;0.12
+Welinton;DF,MF;tr Beşiktaş;312;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Wendell;DF;pt Porto;132;0;0;0.00;0.00;0.1;0.0;0.05;0.03
+Neco Williams;DF,FW;eng Liverpool;180;0;0;0.00;0.00;0.1;0.1;0.05;0.06
+Axel Witsel;MF;de Dortmund;470;0;0;0.00;0.00;0.1;0.4;0.01;0.08
+Marius Wolf;DF,FW;de Dortmund;172;0;0;0.00;0.00;0.1;0.3;0.04;0.16
+Max Woltman;FW;eng Liverpool;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Xeka;MF;fr Lille;255;0;0;0.00;0.00;0.0;0.2;0.00;0.08
+Yusuf Yazıcı;FW,MF;fr Lille;51;0;0;0.00;0.00;0.1;0.1;0.19;0.14
+Rıdvan Yılmaz;DF,MF;tr Beşiktaş;135;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Illia Zabarnyi;DF;ua Dynamo Kyiv;540;0;0;0.00;0.00;0.3;0.0;0.06;0.00
+Dan-Axel Zagadou;DF;de Dortmund;97;0;0;0.00;0.00;0.1;0.0;0.08;0.00
+Davide Zappacosta;DF;it Atalanta;404;0;1;0.00;0.22;0.3;0.7;0.07;0.16
+Cedric Zesiger;DF;ch Young Boys;1;0;0;0.00;0.00;0.0;0.0;0.00;0.00
+Oleksandr Zinchenko;DF,MF;eng Manchester City;274;0;1;0.00;0.33;0.3;0.7;0.10;0.22
