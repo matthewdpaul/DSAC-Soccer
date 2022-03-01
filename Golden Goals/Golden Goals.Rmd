@@ -43,6 +43,7 @@ install.packages("rstatix")
 library(dplyr)
 library(rstatix)
 
+
 ```
 
 ## 02 Checking the structure of the data
