@@ -40,9 +40,10 @@ Golden.Goals <- read.csv("~/Documents/GitHub/Golden Goals/Golden Goals.csv", hea
 
 install.packages("dplyr")
 install.packages("rstatix")
+install.packages("tidyverse")
 library(dplyr)
 library(rstatix)
-
+library(tidyverse)
 
 ```
 
