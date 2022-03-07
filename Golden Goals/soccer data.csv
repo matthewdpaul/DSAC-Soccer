@@ -1,0 +1,740 @@
+Table 1
+Player,Nation,Pos,Squad,Min,Gls▼,Ast,Gls,Ast,xG,xA,xG,xA
+Sébastien Haller\ba115a40,ci CIV,FW,nl Ajax,577,11,1,1.72,0.16,9.0,1.2,1.41,0.18
+Robert Lewandowski\8d78e732,pl POL,FW,de Bayern Munich,604,9,2,1.34,0.30,6.0,1.1,0.89,0.16
+Mohamed Salah\e342ad68,eg EGY,FW,eng Liverpool,550,8,0,1.31,0.00,4.3,0.5,0.71,0.09
+Christopher Nkunku\7c56da38,fr FRA,FWMF,de RB Leipzig,530,7,1,1.19,0.17,2.7,1.0,0.46,0.16
+Riyad Mahrez\892d5bb1,dz ALG,FW,eng Manchester City,607,6,1,0.89,0.15,4.4,1.5,0.65,0.22
+Cristiano Ronaldo\dea698d9,pt POR,FW,eng Manchester Utd,520,6,0,1.04,0.00,3.3,0.9,0.57,0.16
+Karim Benzema\70d74ece,fr FRA,FW,es Real Madrid,524,5,0,0.86,0.00,4.0,1.7,0.68,0.30
+Kylian Mbappé\42fd9c7f,fr FRA,FW,fr Paris S-G,581,5,4,0.77,0.62,4.4,2.2,0.68,0.34
+Lionel Messi\d70ce98e,ar ARG,FW,fr Paris S-G,540,5,0,0.83,0.00,4.5,2.0,0.76,0.34
+Leroy Sané\2b114be3,de GER,FWMF,de Bayern Munich,586,5,4,0.77,0.61,3.3,1.7,0.50,0.25
+Pedro Gonçalves\c275947b,pt POR,FWMF,pt Sporting CP,327,4,2,1.10,0.55,2.4,1.1,0.65,0.29
+Antoine Griezmann\df69b544,fr FRA,FWMF,es Atlético Madrid,301,4,2,1.20,0.60,2.2,0.5,0.66,0.16
+Arnaut Groeneveld\f08490a6,nl NED,FW,es Villarreal,565,4,2,0.64,0.32,2.9,0.7,0.47,0.12
+Karim Adeyemi\501055d8,de GER,FW,at RB Salzburg,541,3,1,0.50,0.17,3.9,0.7,0.65,0.11
+Steven Berghuis\713c144a,nl NED,MF,nl Ajax,542,3,1,0.50,0.17,1.4,1.8,0.24,0.29
+Jonathan David\ce50fd99,ca CAN,FW,fr Lille,598,3,0,0.45,0.00,2.2,0.7,0.34,0.10
+Paulo Dybala\e0921a4f,ar ARG,FWMF,it Juventus,242,3,1,1.12,0.37,2.3,1.1,0.85,0.41
+Edin Džeko\3bb7f478,ba BIH,FW,it Inter,537,3,1,0.50,0.17,4.1,0.7,0.69,0.12
+Roberto Firmino\4c370d81,br BRA,FW,eng Liverpool,192,3,0,1.41,0.00,0.8,0.0,0.39,0.02
+Erling Haaland\1f44ac21,no NOR,FW,de Dortmund,203,3,0,1.33,0.00,2.8,0.4,1.24,0.20
+Gabriel Jesus\b66315ae,br BRA,FW,eng Manchester City,83,3,1,3.25,1.08,1.1,0.1,1.25,0.07
+Donyell Malen\864163f3,nl NED,FW,de Dortmund,390,3,0,0.69,0.00,1.8,0.7,0.42,0.15
+Darwin Núñez\4d77b365,uy URU,FW,pt Benfica,354,3,0,0.76,0.00,2.0,0.3,0.52,0.07
+Noah Okafor\ca607d59,ch SUI,FW,at RB Salzburg,341,3,0,0.79,0.00,1.6,1.0,0.42,0.27
+Paulinho\a62c16d0,pt POR,FW,pt Sporting CP,501,3,1,0.54,0.18,2.6,0.5,0.47,0.10
+Marco Reus\36a3ff67,de GER,FWMF,de Dortmund,497,3,1,0.54,0.18,2.9,0.5,0.53,0.09
+André Silva\3effaa34,pt POR,FW,de RB Leipzig,407,3,2,0.66,0.44,2.9,0.9,0.63,0.20
+Raheem Sterling\b400bde0,eng ENG,FW,eng Manchester City,372,3,2,0.73,0.48,2.9,0.9,0.69,0.22
+Hans Vanaken\392a7aea,be BEL,MF,be Club Brugge,540,3,1,0.50,0.17,2.0,0.7,0.34,0.11
+Timo Werner\49fe9070,de GER,FW,eng Chelsea,164,3,1,1.65,0.55,2.0,1.3,1.11,0.74
+Duván Zapata\d3de9af0,co COL,FW,it Atalanta,464,3,3,0.58,0.58,3.0,0.9,0.58,0.17
+Antony\99127249,br BRA,FW,nl Ajax,484,2,5,0.37,0.93,1.4,2.2,0.26,0.40
+Sardar Azmoun\10549b49,ir IRN,FW,ru Zenit,304,2,0,0.59,0.00,1.8,0.6,0.54,0.18
+João Cancelo\bd6351cd,pt POR,DF,eng Manchester City,540,2,3,0.33,0.50,0.7,2.3,0.12,0.39
+Étienne Capoue\5acc4a10,fr FRA,MF,es Villarreal,599,2,2,0.30,0.30,1.3,0.4,0.20,0.06
+Federico Chiesa\b0f7e36c,it ITA,FWMF,it Juventus,334,2,0,0.54,0.00,1.3,0.2,0.36,0.04
+Claudinho\8d46713e,br BRA,MFFW,ru Zenit,456,2,0,0.39,0.00,1.0,1.0,0.20,0.20
+Sebastián Coates\1fbbfbde,uy URU,DF,pt Sporting CP,450,2,0,0.40,0.00,0.9,0.0,0.18,0.00
+Kingsley Coman\042e8a49,fr FRA,FWDF,de Bayern Munich,383,2,2,0.47,0.47,1.1,3.2,0.25,0.74
+Luis Díaz\4a1a9578,co COL,MFFW,pt Porto,521,2,0,0.35,0.00,0.8,1.5,0.13,0.26
+Fernando\d9d43555,br BRA,FW,ua Shakhtar,346,2,0,0.52,0.00,1.3,0.2,0.35,0.04
+Phil Foden\ed1e53f3,eng ENG,FW,eng Manchester City,290,2,1,0.62,0.31,2.1,0.8,0.66,0.26
+Emil Forsberg\9a2e0ccc,se SWE,MFFW,de RB Leipzig,383,2,2,0.47,0.47,1.4,0.9,0.33,0.21
+Serge Gnabry\88e357ef,de GER,FWDF,de Bayern Munich,274,2,1,0.66,0.33,2.1,1.3,0.69,0.44
+Kai Havertz\fed7cb61,de GER,FW,eng Chelsea,382,2,0,0.47,0.00,1.9,0.3,0.44,0.07
+Jorginho\45db685d,it ITA,MF,eng Chelsea,406,2,0,0.44,0.00,1.5,0.2,0.34,0.05
+Vinicius Júnior\7111d552,br BRA,FW,es Real Madrid,609,2,3,0.30,0.44,2.1,2.2,0.31,0.33
+Toni Kroos\6ce1f46f,de GER,MF,es Real Madrid,449,2,0,0.40,0.00,0.4,0.5,0.09,0.09
+Romelu Lukaku\5eae500a,be BEL,FW,eng Chelsea,276,2,0,0.65,0.00,1.7,0.6,0.56,0.19
+Sadio Mané\c691bfe2,sn SEN,FW,eng Liverpool,392,2,1,0.46,0.23,1.8,0.4,0.42,0.09
+Álvaro Morata\129af0db,es ESP,FW,it Juventus,432,2,0,0.42,0.00,2.1,1.1,0.44,0.22
+Thomas Müller\3c6089ab,de GER,MFFW,de Bayern Munich,536,2,2,0.34,0.34,0.8,1.9,0.13,0.32
+Lukas Nmecha\0cc5f4a5,de GER,FWMF,de Wolfsburg,324,2,0,0.56,0.00,1.1,0.4,0.30,0.11
+Jordan Pefok\b684a484,us USA,FW,ch Young Boys,339,2,0,0.53,0.00,1.9,0.1,0.50,0.03
+Ivan Rakitić\89f951b5,hr CRO,MF,es Sevilla,276,2,1,0.65,0.33,1.9,0.3,0.61,0.09
+Mats Rits\733e7ad8,be BEL,MF,be Club Brugge,413,2,0,0.44,0.00,1.4,0.0,0.30,0.01
+Rodrygo\8f5e92a6,br BRA,FW,es Real Madrid,307,2,2,0.59,0.59,1.1,1.2,0.34,0.36
+Pablo Sarabia\9744ff80,es ESP,FWMF,pt Sporting CP,449,2,1,0.40,0.20,1.4,1.3,0.29,0.26
+Bernardo Silva\3eb22ec9,pt POR,MFFW,eng Manchester City,451,2,2,0.40,0.40,1.2,0.5,0.25,0.11
+Renato Steffen\dd669209,ch SUI,FW,de Wolfsburg,258,2,0,0.70,0.00,0.5,0.1,0.19,0.02
+Dominik Szoboszlai\934e1968,hu HUN,FWDF,de RB Leipzig,210,2,0,0.86,0.00,1.9,0.6,0.80,0.26
+Dušan Tadić\2475dcc6,rs SRB,FW,nl Ajax,540,2,1,0.33,0.17,2.0,2.5,0.34,0.42
+Sébastien Thill\fb46125f,lu LUX,MF,md Sheriff Tiraspol,540,2,1,0.33,0.17,0.3,0.9,0.06,0.15
+Adama Traoré\f9edc384,ml MLI,FWMF,md Sheriff Tiraspol,529,2,1,0.34,0.17,0.6,0.1,0.10,0.01
+Georginio Wijnaldum\eb58eef0,nl NED,MF,fr Paris S-G,262,2,0,0.69,0.00,1.6,0.4,0.54,0.13
+Roman Yaremchuk\cb641b9d,ua UKR,FW,pt Benfica,438,2,0,0.41,0.00,2.4,0.4,0.49,0.09
+Burak Yılmaz\165a2e40,tr TUR,FW,fr Lille,439,2,0,0.41,0.00,2.1,0.0,0.43,0.00
+Chikwubuike Adamu\82e12fe7,at AUT,FW,at RB Salzburg,177,1,0,0.51,0.00,0.6,0.2,0.32,0.11
+Nathan Aké\eaeca114,nl NED,DF,eng Manchester City,218,1,0,0.41,0.00,0.5,0.0,0.20,0.00
+David Alaba\05439de2,at AUT,DF,es Real Madrid,604,1,0,0.15,0.00,0.1,0.3,0.02,0.05
+Paco Alcácer\a7a9d95a,es ESP,FW,es Villarreal,57,1,0,1.58,0.00,0.6,0.0,0.95,0.00
+Thiago Alcántara\77e84962,es ESP,MF,eng Liverpool,199,1,0,0.45,0.00,0.0,0.1,0.02,0.03
+Marco Asensio\45af8a54,es ESP,FW,es Real Madrid,105,1,1,0.86,0.86,0.5,0.4,0.45,0.33
+Ridle Baku\442b56fa,de GER,DFFW,de Wolfsburg,411,1,0,0.22,0.00,0.5,0.1,0.12,0.02
+Jude Bellingham\57d88cf9,eng ENG,MFFW,de Dortmund,500,1,3,0.18,0.54,1.3,1.3,0.23,0.24
+Daley Blind\691bef82,nl NED,DF,nl Ajax,481,1,1,0.19,0.19,0.2,0.4,0.04,0.08
+Marcelo Brozović\33b8d077,hr CRO,MF,it Inter,557,1,0,0.16,0.00,0.4,0.5,0.07,0.09
+Trevoh Chalobah\5515376c,eng ENG,DF,eng Chelsea,119,1,0,0.76,0.00,0.4,0.0,0.30,0.03
+Andreas Christensen\1cb49278,dk DEN,DF,eng Chelsea,524,1,1,0.17,0.17,0.2,0.8,0.03,0.14
+Samuel Chukwueze\b8a642fc,ng NGA,MF,es Villarreal,140,1,0,0.64,0.00,0.7,0.2,0.42,0.14
+Ángel Correa\01eb744d,ar ARG,FWMF,es Atlético Madrid,352,1,0,0.26,0.00,0.7,0.4,0.17,0.10
+Rodrigo De Paul\162efffd,ar ARG,MF,es Atlético Madrid,435,1,0,0.21,0.00,1.1,1.2,0.22,0.26
+Merih Demiral\e3cceee6,tr TUR,DF,it Atalanta,370,1,0,0.24,0.00,0.2,0.0,0.05,0.00
+Brahim Díaz\407feb71,es ESP,MF,it Milan,348,1,1,0.26,0.26,1.1,0.5,0.29,0.13
+Anthony Elanga\2fba6108,se SWE,FWMF,eng Manchester Utd,106,1,0,0.85,0.00,0.7,0.0,0.58,0.00
+Ansu Fati\0ba976e4,es ESP,FW,es Barcelona,154,1,0,0.58,0.00,0.6,0.1,0.36,0.07
+João Félix\8aafd64f,pt POR,FWMF,es Atlético Madrid,318,1,1,0.28,0.28,0.6,0.6,0.17,0.17
+Remo Freuler\98d2c2c4,ch SUI,MF,it Atalanta,524,1,1,0.17,0.17,0.2,0.4,0.03,0.07
+Idrissa Gana Gueye\72c812f3,sn SEN,MF,fr Paris S-G,379,1,0,0.24,0.00,0.4,0.2,0.09,0.04
+Rachid Ghezzal\dc3a9a0d,dz ALG,FWMF,tr Beşiktaş,343,1,0,0.26,0.00,1.3,1.2,0.34,0.30
+Gilberto\1338e42b,br BRA,DF,pt Benfica,445,1,0,0.20,0.00,0.3,0.1,0.07,0.02
+Angel Gomes\645a3363,eng ENG,MF,fr Lille,154,1,1,0.58,0.58,0.5,0.4,0.27,0.24
+Robin Gosens\2d970560,de GER,DF,it Atalanta,100,1,0,0.90,0.00,0.7,0.0,0.65,0.00
+Jack Grealish\b0b4fd3e,eng ENG,FW,eng Manchester City,394,1,1,0.23,0.23,0.7,1.3,0.16,0.31
+Mason Greenwood\58eee997,eng ENG,FW,eng Manchester Utd,303,1,1,0.30,0.30,0.1,0.8,0.02,0.22
+Denys Harmash\bfc5768b,ua UKR,FW,ua Dynamo Kyiv,324,1,0,0.28,0.00,0.6,0.2,0.18,0.05
+Silvan Hefti\f8342731,ch SUI,DF,ch Young Boys,385,1,1,0.23,0.23,0.1,0.9,0.02,0.21
+Jordan Henderson\935e6b8f,eng ENG,MF,eng Liverpool,395,1,1,0.23,0.23,0.4,0.3,0.09,0.07
+Ander Herrera\436a9dd0,es ESP,MF,fr Paris S-G,326,1,0,0.28,0.00,0.3,0.5,0.10,0.14
+Callum Hudson-Odoi\15f3ec41,eng ENG,FWDF,eng Chelsea,288,1,2,0.31,0.62,0.6,1.1,0.20,0.35
+Jonathan Ikone\42eaa028,fr FRA,MF,fr Lille,297,1,2,0.30,0.61,1.1,0.9,0.34,0.28
+Josip Iličić\68252d6d,si SVN,FWMF,it Atalanta,248,1,1,0.36,0.36,0.1,1.1,0.05,0.40
+Reece James\1265a93a,eng ENG,DFMF,eng Chelsea,296,1,0,0.30,0.00,0.4,0.4,0.11,0.11
+Joan Jordán\2a0c8ba4,es ESP,MF,es Sevilla,326,1,0,0.28,0.00,0.4,0.3,0.10,0.08
+Diogo Jota\178ae8f8,pt POR,FW,eng Liverpool,320,1,0,0.28,0.00,2.2,0.2,0.61,0.05
+Moise Kean\3d50bcdb,it ITA,FW,it Juventus,167,1,0,0.54,0.00,2.3,0.2,1.22,0.12
+Naby Keïta\f25c8e3a,gn GUI,MF,eng Liverpool,174,1,0,0.52,0.00,0.1,0.3,0.05,0.13
+Davy Klaassen\15fd5593,nl NED,MF,nl Ajax,226,1,1,0.40,0.40,0.7,0.2,0.26,0.09
+Dejan Kulusevski\df3cda47,se SWE,FW,it Juventus,85,1,0,1.06,0.00,0.2,0.7,0.17,0.71
+Daler Kuzyaev\d4e93bab,ru RUS,MF,ru Zenit,255,1,0,0.35,0.00,0.2,0.2,0.08,0.07
+Cyle Larin\e7af9060,ca CAN,FWMF,tr Beşiktaş,350,1,0,0.26,0.00,1.4,0.0,0.36,0.01
+Rafael Leão\20730eae,pt POR,FW,it Milan,291,1,1,0.31,0.31,0.1,0.3,0.02,0.10
+José Luis Palomino\921f6058,ar ARG,DF,it Atalanta,450,1,1,0.20,0.20,0.2,0.3,0.04,0.06
+Harry Maguire\d8931174,eng ENG,DF,eng Manchester Utd,450,1,0,0.20,0.00,0.5,0.0,0.10,0.00
+Ruslan Malinovskyi\48d5bd33,ua UKR,FWMF,it Atalanta,301,1,0,0.30,0.00,0.5,1.0,0.15,0.29
+Eric Maxim Choupo-Moting\0e6bc38c,cm CMR,FW,de Bayern Munich,26,1,0,3.46,0.00,0.4,0.0,1.32,0.00
+Elia Meschak\5d51b074,cd COD,FW,ch Young Boys,486,1,0,0.19,0.00,1.9,0.6,0.35,0.11
+Junior Messias\f49c4ae9,br BRA,FWMF,it Milan,116,1,0,0.78,0.00,0.3,0.1,0.21,0.10
+Rafa Mir\bbf5c11b,es ESP,FW,es Sevilla,272,1,1,0.33,0.33,1.3,0.1,0.43,0.02
+Francisco Montero\3e96f3e7,es ESP,DF,tr Beşiktaş,305,1,0,0.30,0.00,0.1,0.0,0.04,0.00
+Morato\0f41e2ee,br BRA,DF,pt Benfica,180,1,0,0.50,0.00,0.1,0.0,0.04,0.00
+Alberto Moreno\11b9265b,es ESP,MFDF,es Villarreal,311,1,0,0.29,0.00,0.6,0.7,0.17,0.20
+Gerard Moreno\81f0781e,es ESP,FW,es Villarreal,259,1,3,0.35,1.04,1.4,1.6,0.49,0.57
+Nordi Mukiele\ac73ec79,fr FRA,DF,de RB Leipzig,483,1,1,0.19,0.19,0.5,0.3,0.09,0.06
+Luis Muriel\eb2fe5b6,co COL,FWMF,it Atalanta,132,1,0,0.68,0.00,0.4,0.0,0.25,0.03
+Jamal Musiala\2c0558b8,de GER,FWMF,de Bayern Munich,213,1,1,0.42,0.42,0.6,0.0,0.25,0.00
+David Neres\4f1e6a0b,br BRA,FW,nl Ajax,205,1,0,0.44,0.00,0.9,0.7,0.38,0.29
+Moumi Ngamaleu\0193a8bf,cm CMR,MFFW,ch Young Boys,531,1,1,0.17,0.17,1.0,0.9,0.16,0.16
+Boban Nikolov\35862524,mk MKD,MF,md Sheriff Tiraspol,99,1,0,0.91,0.00,0.6,0.0,0.57,0.01
+Lucas Ocampos\a08b974a,ar ARG,FW,es Sevilla,461,1,1,0.20,0.20,1.0,0.9,0.20,0.17
+Sérgio Oliveira\947e036f,pt POR,MF,pt Porto,298,1,0,0.30,0.00,0.8,0.5,0.25,0.14
+Divock Origi\43a166b4,be BEL,FW,eng Liverpool,176,1,1,0.51,0.51,0.6,0.4,0.33,0.22
+Magomed Ozdoyev\3ef0af0d,ru RUS,MF,ru Zenit,12,1,0,7.50,0.00,0.1,0.0,0.45,0.00
+Cole Palmer\dc7f8a28,eng ENG,MFFW,eng Manchester City,42,1,0,2.14,0.00,0.4,0.0,0.92,0.09
+Daniel Parejo\7460ca0d,es ESP,MF,es Villarreal,628,1,2,0.14,0.29,0.4,1.4,0.06,0.21
+Mario Pašalić\e599253a,hr CRO,MFFW,it Atalanta,219,1,1,0.41,0.41,0.7,0.3,0.29,0.11
+Matteo Pessina\780e3631,it ITA,MFFW,it Atalanta,211,1,0,0.43,0.00,0.9,0.1,0.40,0.06
+Yeremi Pino\540ec57b,es ESP,MFDF,es Villarreal,362,1,0,0.25,0.00,0.6,0.2,0.16,0.04
+Gerard Piqué\adfc9123,es ESP,DF,es Barcelona,392,1,0,0.23,0.00,0.3,0.0,0.07,0.00
+Pedro Porro\27d0a506,es ESP,DF,pt Sporting CP,447,1,0,0.20,0.00,0.6,0.6,0.12,0.13
+Christian Pulisic\1bf33a9a,us USA,FWDF,eng Chelsea,192,1,1,0.47,0.47,0.3,0.5,0.16,0.22
+Yaroslav Rakitskiy\47fd5136,ua UKR,DF,ru Zenit,494,1,2,0.18,0.36,1.0,0.3,0.18,0.05
+Marcus Rashford\a1d5bd30,eng ENG,FWMF,eng Manchester Utd,232,1,0,0.39,0.00,0.7,0.0,0.28,0.00
+Ante Rebić\536cebe5,hr CRO,FW,it Milan,115,1,0,0.78,0.00,0.6,0.5,0.44,0.39
+Fabian Rieder\c2bd8585,ch SUI,MFFW,ch Young Boys,272,1,1,0.33,0.33,0.6,0.3,0.21,0.09
+Søren Rieks\572498c7,dk DEN,DF,se Malmö,220,1,0,0.41,0.00,0.3,0.0,0.11,0.00
+Alexis Sánchez\2c0f8e9e,cl CHI,FW,it Inter,97,1,0,0.93,0.00,0.1,0.1,0.14,0.12
+Jadon Sancho\dbf053da,eng ENG,FW,eng Manchester Utd,302,1,0,0.30,0.00,0.7,0.1,0.22,0.03
+Alex Sandro\0d82903c,br BRA,DF,it Juventus,552,1,0,0.16,0.00,0.5,0.2,0.08,0.04
+Nuno Santos\a6ee4f55,pt POR,FWMF,pt Sporting CP,207,1,0,0.43,0.00,0.4,0.5,0.19,0.21
+Vincent Sierro\92ffb8f9,ch SUI,MF,ch Young Boys,240,1,0,0.37,0.00,0.3,0.4,0.10,0.14
+Rafa Silva\70cf63ca,pt POR,FWMF,pt Benfica,521,1,0,0.17,0.00,1.2,1.4,0.21,0.25
+Milan Škriniar\30f5ffa9,sk SVK,DF,it Inter,630,1,0,0.14,0.00,1.8,0.0,0.25,0.01
+Luis Suárez\a6154613,uy URU,FW,es Atlético Madrid,337,1,0,0.27,0.00,1.8,0.2,0.48,0.05
+Luka Sučić\1e1378e1,hr CRO,MF,at RB Salzburg,468,1,0,0.19,0.00,2.0,0.4,0.39,0.07
+Aleksei Sutormin\bd20f4eb,ru RUS,DF,ru Zenit,293,1,0,0.31,0.00,0.1,0.0,0.03,0.01
+Bruno Tabata\2e0f6a18,br BRA,FW,pt Sporting CP,113,1,1,0.80,0.80,0.3,0.7,0.27,0.52
+Mehdi Taremi\4c2a5d34,ir IRN,FW,pt Porto,490,1,1,0.18,0.18,2.6,0.1,0.48,0.02
+Alex Telles\e73c9bb2,br BRA,DF,eng Manchester Utd,202,1,0,0.45,0.00,0.0,0.1,0.01,0.06
+Fikayo Tomori\7edfbb8a,eng ENG,DF,it Milan,417,1,0,0.22,0.00,0.5,0.0,0.11,0.00
+Manu Trigueros\963829d0,es ESP,MFFW,es Villarreal,236,1,0,0.38,0.00,0.9,0.7,0.33,0.25
+Arturo Vidal\67cdbc0e,cl CHI,MF,it Inter,320,1,2,0.28,0.56,0.5,0.8,0.15,0.24
+Dušan Vlahović\79443529,rs SRB,FW,it Juventus,90,1,0,1.00,0.00,0.1,0.1,0.10,0.06
+Stefan de Vrij\d0d8dd44,nl NED,DF,it Inter,440,1,0,0.20,0.00,0.6,0.0,0.11,0.01
+Kyle Walker\86dd77d1,eng ENG,DF,eng Manchester City,431,1,0,0.21,0.00,0.2,0.2,0.04,0.04
+Wendel\33b11df6,br BRA,MF,ru Zenit,481,1,0,0.19,0.00,0.5,0.3,0.09,0.06
+Maximilian Wöber\4b803b3c,at AUT,DF,at RB Salzburg,481,1,0,0.19,0.00,0.6,0.0,0.11,0.00
+Momo Yansané\683a8f5f,gn GUI,FW,md Sheriff Tiraspol,157,1,0,0.57,0.00,0.3,0.1,0.18,0.07
+Jasur Yaxshiboyev\8fb94908,uz UZB,FW,md Sheriff Tiraspol,202,1,0,0.45,0.00,0.3,0.0,0.14,0.00
+Hakim Ziyech\6622454d,ma MAR,FWMF,eng Chelsea,371,1,2,0.24,0.49,1.6,1.4,0.40,0.35
+Brenden Aaronson\5bc43860,us USA,MF,at RB Salzburg,624,0,1,0.00,0.14,0.6,0.8,0.09,0.11
+Malik Abubakari\47aaf574,gh GHA,FW,se Malmö,119,0,0,0.00,0.00,0.1,0.0,0.07,0.02
+Marcos Acuña\81442ecb,ar ARG,DF,es Sevilla,378,0,0,0.00,0.00,0.0,0.6,0.00,0.14
+Tyler Adams\2b09d998,us USA,MF,de RB Leipzig,293,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Antonio Adán\65d62814,es ESP,GK,pt Sporting CP,540,0,0,0.00,0.00,0.0,0.1,0.00,0.02
+Edmund Addo\6af56975,gh GHA,MF,md Sheriff Tiraspol,488,0,0,0.00,0.00,0.0,0.3,0.00,0.05
+Michel Aebischer\f9c927de,ch SUI,MF,ch Young Boys,502,0,1,0.00,0.18,0.3,0.8,0.05,0.15
+Sergio Agüero\4d034881,ar ARG,FW,es Barcelona,16,0,0,0.00,0.00,0.0,0.0,0.12,0.00
+Anel Ahmedhodzic\eab957a3,ba BIH,DF,se Malmö,412,0,0,0.00,0.00,0.0,0.1,0.00,0.01
+Manuel Akanji\89ac64a6,ch SUI,DF,de Dortmund,450,0,0,0.00,0.00,0.0,0.1,0.01,0.02
+Jordi Alba\4601e194,es ESP,DF,es Barcelona,373,0,1,0.00,0.24,0.2,0.8,0.05,0.19
+Raúl Albiol\4bd414c1,es ESP,DF,es Villarreal,604,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Trent Alexander-Arnold\cd1acf9d,eng ENG,DF,eng Liverpool,353,0,2,0.00,0.51,0.1,0.7,0.03,0.19
+Alisson\7a2e46a8,br BRA,GK,eng Liverpool,630,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+André Almeida\67b3d74b,pt POR,DF,pt Benfica,235,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Marcos Alonso\f4290206,es ESP,DF,eng Chelsea,338,0,0,0.00,0.00,0.6,0.5,0.16,0.14
+Éder Álvarez Balanta\8ce30c57,co COL,MF,be Club Brugge,405,0,0,0.00,0.00,0.0,0.2,0.00,0.05
+Edson Álvarez\8b3ab7ad,mx MEX,MF,nl Ajax,476,0,0,0.00,0.00,0.2,0.0,0.05,0.01
+Mohamed Aly Camara\24fc70d3,gn GUI,DF,ch Young Boys,346,0,0,0.00,0.00,0.1,0.0,0.04,0.00
+Benjamin André\ef9c1c95,fr FRA,MF,fr Lille,540,0,0,0.00,0.00,0.2,0.3,0.03,0.05
+Oleksandr Andriyevskyi\4e3f5992,ua UKR,MF,ua Dynamo Kyiv,95,0,0,0.00,0.00,0.0,0.0,0.00,0.02
+Angeliño\30941e96,es ESP,DF,de RB Leipzig,430,0,3,0.00,0.63,0.3,1.0,0.06,0.20
+Marcos Antônio\108fe016,br BRA,MF,ua Shakhtar,256,0,0,0.00,0.00,0.0,0.1,0.01,0.05
+Ronald Araújo\2bef2bca,uy URU,DF,es Barcelona,367,0,0,0.00,0.00,0.2,0.0,0.04,0.00
+Danilo Arboleda\df418fc0,co COL,DF,md Sheriff Tiraspol,540,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Maximilian Arnold\86e119e0,de GER,MF,de Wolfsburg,540,0,3,0.00,0.50,0.2,1.0,0.03,0.17
+Kepa Arrizabalaga\28d596a0,es ESP,GK,eng Chelsea,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Giorgos Athanasiadis\55b93ae0,gr GRE,GK,md Sheriff Tiraspol,450,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ludwig Augustinsson\9fec8860,se SWE,DF,es Sevilla,80,0,0,0.00,0.00,0.0,0.1,0.00,0.14
+César Azpilicueta\53cad200,es ESP,DF,eng Chelsea,497,0,1,0.00,0.18,0.1,0.5,0.02,0.09
+Eric Bailly\a1232f4e,ci CIV,DF,eng Manchester Utd,180,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Tiemoué Bakayoko\59bf127b,fr FRA,MF,it Milan,59,0,0,0.00,0.00,0.3,0.2,0.41,0.35
+Alejandro Balde\5ccc9672,es ESP,DFFW,es Barcelona,21,0,0,0.00,0.00,0.0,0.0,0.15,0.12
+Gareth Bale\a58bb1e1,wls WAL,FW,es Real Madrid,4,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+David von Ballmoos\f7b10c66,ch SUI,GK,ch Young Boys,270,0,0,0.00,0.00,0.0,0.2,0.00,0.06
+Fodé Ballo-Touré\f449640d,sn SEN,DFMF,it Milan,91,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jonathan Bamba\b2bd0f6c,fr FRA,MFFW,fr Lille,392,0,0,0.00,0.00,0.3,0.5,0.06,0.11
+Nicolò Barella\6928979a,it ITA,MF,it Inter,493,0,0,0.00,0.00,0.7,1.1,0.12,0.21
+Ross Barkley\3a24769f,eng ENG,MF,eng Chelsea,97,0,0,0.00,0.00,0.1,0.3,0.14,0.31
+Wílmar Barrios\8e7f49d3,co COL,MFDF,ru Zenit,540,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Alessandro Bastoni\75b86fb3,it ITA,DF,it Inter,577,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Michy Batshuayi\2973d8ff,be BEL,FW,tr Beşiktaş,384,0,0,0.00,0.00,1.6,0.1,0.37,0.03
+Donny van de Beek\50dc94ce,nl NED,MF,eng Manchester Utd,204,0,0,0.00,0.00,0.1,0.0,0.04,0.00
+Hatem Ben Arfa\74dc806c,fr FRA,MF,fr Lille,10,0,0,0.00,0.00,0.0,0.0,0.15,0.00
+Ismaël Bennacer\db092d3b,dz ALG,MF,it Milan,375,0,0,0.00,0.00,0.1,0.1,0.03,0.02
+Rodrigo Bentancur\3b8674e6,uy URU,MFFW,it Juventus,378,0,1,0.00,0.24,0.1,0.4,0.02,0.09
+Federico Bernardeschi\ee93c1a9,it ITA,FWMF,it Juventus,281,0,2,0.00,0.64,0.7,1.6,0.21,0.51
+Bernardo\17370b95,br BRA,DFMF,at RB Salzburg,25,0,1,0.00,3.60,0.0,0.0,0.17,0.00
+Paulo Bernardo\4142f132,pt POR,MF,pt Benfica,29,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Veljko Birmančević\636247ca,rs SRB,FWMF,se Malmö,352,0,1,0.00,0.26,0.1,0.3,0.04,0.07
+Blanco\506daeac,es ESP,MF,es Real Madrid,7,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Valerii Bondar\7713c72a,ua UKR,DF,ua Shakhtar,90,0,0,0.00,0.00,0.3,0.0,0.31,0.02
+Artem Bondarenko\415568b5,ua UKR,MF,ua Shakhtar,84,0,0,0.00,0.00,0.2,0.1,0.17,0.14
+Solomon Bonnah\dd7b6eb8,nl NED,DF,de RB Leipzig,11,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Leonardo Bonucci\52ec54d0,it ITA,DF,it Juventus,579,0,0,0.00,0.00,0.0,0.1,0.00,0.02
+Sebastiaan Bornauw\01834aa0,be BEL,DF,de Wolfsburg,205,0,0,0.00,0.00,0.1,0.0,0.04,0.00
+Sven Botman\ccce7025,nl NED,DF,fr Lille,360,0,0,0.00,0.00,0.2,0.1,0.05,0.01
+Yassine Bounou\f6798fc3,ma MAR,GK,es Sevilla,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Denys Boyko\1e064bfb,ua UKR,GK,ua Dynamo Kyiv,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Can Bozdogan\b797f558,de GER,MF,tr Beşiktaş,219,0,0,0.00,0.00,0.0,0.5,0.02,0.21
+Conor Bradley\bbd67769,nir NIR,FW,eng Liverpool,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Daniel Bragança\0c152537,pt POR,MFFW,pt Sporting CP,133,0,0,0.00,0.00,0.5,0.0,0.31,0.02
+Julian Brandt\a167537f,de GER,MFFW,de Dortmund,395,0,0,0.00,0.00,0.3,0.7,0.06,0.16
+Brian Brobbey\4c184730,nl NED,FWMF,de RB Leipzig,108,0,0,0.00,0.00,0.0,0.0,0.02,0.03
+John Brooks\e27da244,us USA,DF,de Wolfsburg,329,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Franz Brorsson\08d37c53,se SWE,DF,se Malmö,446,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Nicolas Bürgy\a4851d9e,ch SUI,DF,ch Young Boys,180,0,0,0.00,0.00,0.3,0.0,0.15,0.00
+Heorhiy Bushchan\eb2b33aa,ua UKR,GK,ua Dynamo Kyiv,450,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Sergio Busquets\5ab0ea87,es ESP,MF,es Barcelona,485,0,0,0.00,0.00,0.0,0.3,0.01,0.05
+Vitaliy Buyalskyi\b8814868,ua UKR,MFFW,ua Dynamo Kyiv,434,0,0,0.00,0.00,0.5,1.2,0.10,0.24
+Jovane Cabral\e34e086c,cv CPV,FWMF,pt Sporting CP,81,0,0,0.00,0.00,0.0,0.4,0.00,0.45
+Davide Calabria\2146785a,it ITA,DF,it Milan,315,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Hakan Çalhanoğlu\cd0fa27b,tr TUR,MF,it Inter,334,0,0,0.00,0.00,0.1,1.5,0.03,0.40
+Mohamed Camara\489e80e3,ml MLI,MF,at RB Salzburg,603,0,0,0.00,0.00,0.1,0.1,0.01,0.01
+Eduardo Camavinga\7b9c2d84,fr FRA,MFDF,es Real Madrid,134,0,1,0.00,0.67,0.0,0.2,0.00,0.16
+Emre Can\a65ce836,de GER,DF,de Dortmund,73,0,0,0.00,0.00,0.0,0.1,0.00,0.10
+Nicolás Capaldo\6885cc44,ar ARG,MF,at RB Salzburg,196,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Fábio Cardoso\4a5839fa,pt POR,DF,pt Porto,156,0,0,0.00,0.00,0.1,0.1,0.05,0.05
+Diego Carlos\b4a014b1,br BRA,DF,es Sevilla,539,0,0,0.00,0.00,0.2,0.0,0.03,0.00
+Yannick Carrasco\de39485a,be BEL,DFMF,es Atlético Madrid,449,0,0,0.00,0.00,0.6,0.2,0.11,0.04
+Dani Carvajal\4958bfb2,es ESP,DF,es Real Madrid,380,0,1,0.00,0.24,0.3,0.5,0.06,0.12
+Casemiro\4d224fe8,br BRA,MF,es Real Madrid,578,0,0,0.00,0.00,0.4,0.3,0.07,0.05
+Frank Castañeda\0a396655,co COL,FW,md Sheriff Tiraspol,355,0,0,0.00,0.00,0.2,0.2,0.05,0.06
+Koen Casteels\db401046,be BEL,GK,de Wolfsburg,450,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Edinson Cavani\527f063d,uy URU,FWMF,eng Manchester Utd,63,0,0,0.00,0.00,0.2,0.0,0.35,0.00
+Dumitru Celeadnic\2edbd8d5,md MDA,GK,md Sheriff Tiraspol,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Zeki Çelik\31a62dc7,tr TUR,DF,fr Lille,532,0,1,0.00,0.17,0.1,0.1,0.02,0.01
+Leonardo César Jardim\f5dfc256,br BRA,GK,fr Lille,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Giorgio Chiellini\e85fb9b8,it ITA,DF,it Juventus,8,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ben Chilwell\d2424d1b,eng ENG,DF,eng Chelsea,187,0,0,0.00,0.00,0.6,0.2,0.28,0.11
+Dmitri Chistyakov\bec8a4ba,ru RUS,DF,ru Zenit,442,0,0,0.00,0.00,0.4,0.0,0.08,0.00
+Anders Christiansen\770ebf00,dk DEN,MF,se Malmö,327,0,0,0.00,0.00,0.6,0.1,0.17,0.01
+Serafim Cojocari\48df060a,md MDA,FW,md Sheriff Tiraspol,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Maxim Cojocaru\be305255,md MDA,FWMF,md Sheriff Tiraspol,17,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Antonio Čolak\bfde3de5,hr CRO,FW,se Malmö,498,0,0,0.00,0.00,0.6,0.1,0.11,0.02
+Francisco Conceição\5ef3d210,pt POR,MFFW,pt Porto,39,0,0,0.00,0.00,0.0,0.0,0.08,0.00
+Francis Coquelin\a6951bf8,fr FRA,MF,es Villarreal,167,0,0,0.00,0.00,0.2,0.5,0.11,0.25
+Jesús Corona\fb938d24,mx MEX,DFFW,pt Porto,214,0,0,0.00,0.00,0.0,0.1,0.00,0.04
+Joaquín Correa\45b9b619,ar ARG,FW,it Inter,95,0,0,0.00,0.00,0.0,0.0,0.02,0.00
+Bruno Xavier Almeida Costa\7b4c1f6e,pt POR,MF,pt Porto,12,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Diogo Costa\93fffbcf,pt POR,GK,pt Porto,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Thibaut Courtois\1840e36d,be BEL,GK,es Real Madrid,630,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Philippe Coutinho\0ef89a37,br BRA,FWMF,es Barcelona,111,0,0,0.00,0.00,0.1,0.0,0.10,0.02
+Juan Cuadrado\0ab1f153,co COL,DFMF,it Juventus,382,0,0,0.00,0.00,0.1,0.6,0.03,0.15
+Matheus Cunha\dc62b55d,br BRA,FW,es Atlético Madrid,106,0,0,0.00,0.00,0.6,0.0,0.52,0.00
+Danilo D'Ambrosio\44eb9093,it ITA,DF,it Inter,102,0,0,0.00,0.00,0.0,0.0,0.00,0.02
+Cosimo Marco Da Graca\32f76907,it ITA,FW,it Juventus,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Johan Dahlin\a04e2dd2,se SWE,GK,se Malmö,315,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Mahmoud Dahoud\db4ed67b,de GER,MF,de Dortmund,212,0,2,0.00,0.85,0.3,0.9,0.11,0.39
+Diogo Dalot\d9565625,pt POR,DF,eng Manchester Utd,144,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Danilo\94b2001f,br BRA,DF,it Juventus,360,0,1,0.00,0.25,0.0,0.2,0.00,0.04
+Mohammed Daramy\06a1d642,dk DEN,FW,nl Ajax,53,0,0,0.00,0.00,0.5,0.0,0.84,0.00
+Matteo Darmian\96e0490d,it ITA,DF,it Inter,181,0,0,0.00,0.00,0.1,0.0,0.04,0.00
+Alphonso Davies\d781d855,ca CAN,DF,de Bayern Munich,381,0,2,0.00,0.47,0.1,0.5,0.02,0.11
+Kevin De Bruyne\e46012d4,be BEL,MF,eng Manchester City,415,0,2,0.00,0.43,1.0,1.6,0.21,0.34
+Charles De Ketelaere\2ef7c612,be BEL,FW,be Club Brugge,496,0,1,0.00,0.18,0.9,1.6,0.17,0.28
+Mattia De Sciglio\ae4e2852,it ITA,DF,it Juventus,196,0,1,0.00,0.46,0.0,0.6,0.00,0.28
+Koni De Winter\f4797849,be BEL,DF,it Juventus,81,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Thomas Delaney\fe641c1a,dk DEN,MF,es Sevilla,200,0,0,0.00,0.00,0.0,0.1,0.01,0.02
+Liam Delap\dd897ee7,eng ENG,FW,eng Manchester City,6,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ousmane Dembélé\b19db005,fr FRA,FWDF,es Barcelona,123,0,0,0.00,0.00,0.4,0.1,0.30,0.09
+Yusuf Demir\fa265f6d,at AUT,DFFW,es Barcelona,102,0,0,0.00,0.00,0.1,0.0,0.05,0.02
+Dentinho\85686f86,br BRA,FW,ua Shakhtar,5,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Memphis Depay\8f696594,nl NED,FW,es Barcelona,524,0,0,0.00,0.00,0.5,1.4,0.08,0.24
+Sergiño Dest\5976f83e,us USA,DFFW,es Barcelona,230,0,0,0.00,0.00,0.6,0.0,0.24,0.01
+Ersin Destanoğlu\52b3c895,tr TUR,GK,tr Beşiktaş,450,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ángel Di María\19cda00b,ar ARG,FW,fr Paris S-G,249,0,1,0.00,0.36,1.0,1.3,0.35,0.49
+Boulaye Dia\244bc2c8,sn SEN,FW,es Villarreal,162,0,0,0.00,0.00,0.9,0.1,0.49,0.05
+Abdou Diallo\fc62f087,sn SEN,DF,fr Paris S-G,164,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Amad Diallo\9dc96f10,ci CIV,MF,eng Manchester Utd,67,0,0,0.00,0.00,0.1,0.0,0.19,0.00
+Rúben Dias\31c69ef1,pt POR,DF,eng Manchester City,454,0,0,0.00,0.00,0.4,0.1,0.09,0.02
+Ismael Diawara\a9107589,ml MLI,GK,se Malmö,225,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Luis Díaz\4a1a9578,co COL,FW,eng Liverpool,32,0,0,0.00,0.00,0.2,0.0,0.47,0.00
+Virgil van Dijk\e06683ca,nl NED,DF,eng Liverpool,360,0,1,0.00,0.25,0.1,0.0,0.01,0.00
+Federico Dimarco\970b8574,it ITA,DF,it Inter,282,0,0,0.00,0.00,0.3,1.5,0.10,0.47
+Junior Dina Ebimbe\95bb6ddc,fr FRA,MF,fr Paris S-G,7,0,0,0.00,0.00,0.1,0.0,1.58,0.00
+Tiago Djaló\b2336681,pt POR,DF,fr Lille,443,0,0,0.00,0.00,0.2,0.0,0.04,0.01
+Berat Djimsiti\6eee05f1,al ALB,DF,it Atalanta,260,0,0,0.00,0.00,0.3,0.0,0.10,0.02
+Dodô\b5f7d10b,br BRA,DF,ua Shakhtar,540,0,0,0.00,0.00,0.9,0.6,0.14,0.10
+Gianluigi Donnarumma\08f5afaa,it ITA,GK,fr Paris S-G,360,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Bas Dost\dc90cfbe,nl NED,FW,be Club Brugge,70,0,0,0.00,0.00,0.3,0.1,0.39,0.11
+Julian Draxler\1a992676,de GER,FWMF,fr Paris S-G,140,0,0,0.00,0.00,0.4,0.1,0.25,0.08
+Gustavo Dulanto\e426b012,pe PER,DF,md Sheriff Tiraspol,540,0,0,0.00,0.00,0.4,0.0,0.07,0.01
+Denzel Dumfries\481c9ece,nl NED,DF,it Inter,392,0,1,0.00,0.23,0.5,0.5,0.11,0.11
+Artem Dzyuba\448a3608,ru RUS,FW,ru Zenit,278,0,1,0.00,0.32,1.8,0.5,0.60,0.18
+Ederson\3bb7b8b4,br BRA,GK,eng Manchester City,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Noah Eile\e1574c2d,se SWE,DF,se Malmö,4,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Harvey Elliott\c8387671,eng ENG,MF,eng Liverpool,58,0,0,0.00,0.00,0.0,0.1,0.00,0.09
+Youssef En-Nesyri\04e17fd5,ma MAR,FWMF,es Sevilla,83,0,0,0.00,0.00,0.6,0.0,0.63,0.00
+Aleksandr Erokhin\1c78737d,ru RUS,MF,ru Zenit,109,0,0,0.00,0.00,0.2,0.0,0.15,0.00
+Ricardo Esgaio\12dcbdcc,pt POR,DF,pt Sporting CP,373,0,2,0.00,0.48,0.1,0.3,0.02,0.06
+Dario Essugo\1e4319ac,pt POR,MF,pt Sporting CP,10,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Gonçalo Esteves\ea3b4578,pt POR,DF,pt Sporting CP,72,0,0,0.00,0.00,0.0,0.2,0.04,0.20
+Pervis Estupiñán\d38fdf53,ec ECU,DF,es Villarreal,226,0,0,0.00,0.00,0.0,0.1,0.01,0.04
+Evanilson\6f3cc2fe,br BRA,FW,pt Porto,310,0,0,0.00,0.00,0.5,0.1,0.15,0.03
+Fabinho\7f3b388c,br BRA,MF,eng Liverpool,372,0,0,0.00,0.00,0.1,0.2,0.03,0.04
+Guillaume Faivre\11c7fa75,ch SUI,GK,ch Young Boys,270,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Christian Fassnacht\0aeeed3f,ch SUI,MFFW,ch Young Boys,269,0,0,0.00,0.00,0.9,0.1,0.30,0.04
+Zouhair Feddal\89151b16,ma MAR,DF,pt Sporting CP,449,0,0,0.00,0.00,0.1,0.0,0.02,0.01
+Felipe\51a3c4c8,br BRA,DFMF,es Atlético Madrid,289,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Bruno Fernandes\507c7bdf,pt POR,MF,eng Manchester Utd,452,0,7,0.00,1.39,0.7,3.2,0.13,0.63
+Fernandinho\101da2b5,br BRA,MF,eng Manchester City,160,0,1,0.00,0.56,0.1,0.5,0.06,0.29
+Fernando\fe29c96e,br BRA,DF,md Sheriff Tiraspol,540,0,0,0.00,0.00,0.1,0.1,0.01,0.02
+Fernando\41f32541,br BRA,MFDF,es Sevilla,540,0,0,0.00,0.00,0.0,0.1,0.01,0.02
+Alessandro Florenzi\e288d4b3,it ITA,DFFW,it Milan,92,0,0,0.00,0.00,0.1,0.1,0.06,0.12
+José Fonte\90f87966,pt POR,DF,fr Lille,630,0,0,0.00,0.00,0.2,0.1,0.03,0.01
+Juan Foyth\6c7762c3,ar ARG,DF,es Villarreal,540,0,0,0.00,0.00,0.2,0.0,0.03,0.00
+Lassina Franck Traoré\f620b04f,bf BFA,FW,ua Shakhtar,100,0,0,0.00,0.00,0.1,0.0,0.10,0.03
+Fred\b853e0ad,br BRA,MF,eng Manchester Utd,357,0,0,0.00,0.00,0.5,0.0,0.13,0.01
+Roberto Gagliardini\ce30bfc8,it ITA,MF,it Inter,55,0,0,0.00,0.00,0.0,0.1,0.00,0.12
+Eric García\2bed3eab,es ESP,DF,es Barcelona,246,0,0,0.00,0.00,0.1,0.0,0.02,0.01
+Ulisses Garcia\c952f633,ch SUI,DF,ch Young Boys,434,0,0,0.00,0.00,0.1,0.5,0.02,0.10
+Mario Gaspar\fb5d47b3,es ESP,DF,es Villarreal,93,0,0,0.00,0.00,0.0,0.3,0.00,0.32
+David de Gea\7ba6d84e,es ESP,GK,eng Manchester Utd,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Yannick Gerhardt\62ab9184,de GER,FW,de Wolfsburg,191,0,1,0.00,0.47,0.0,0.9,0.01,0.41
+Daniel Ginczek\e5f63987,de GER,MF,de Wolfsburg,3,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Olivier Giroud\16ceb862,fr FRA,FW,it Milan,260,0,0,0.00,0.00,0.3,0.1,0.12,0.02
+Joe Gomez\7a11550b,eng ENG,DF,eng Liverpool,148,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Moi Gómez\5a626448,es ESP,MFFW,es Villarreal,224,0,1,0.00,0.40,0.2,0.5,0.08,0.21
+Papu Gómez\6e4df551,ar ARG,FWMF,es Sevilla,320,0,0,0.00,0.00,0.3,0.3,0.07,0.08
+Diogo Gonçalves\f4b52308,pt POR,DFFW,pt Benfica,79,0,0,0.00,0.00,0.1,0.2,0.10,0.18
+Nicolás González\2c56a792,es ESP,MF,es Barcelona,248,0,0,0.00,0.00,0.2,0.8,0.07,0.29
+Leon Goretzka\cc86b9a3,de GER,MF,de Bayern Munich,348,0,0,0.00,0.00,0.6,0.5,0.15,0.14
+Ryan Gravenberch\b8e740fb,nl NED,MF,nl Ajax,612,0,1,0.00,0.15,0.6,0.7,0.09,0.11
+Ivo Grbić\3f034750,hr CRO,GK,fr Lille,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Álex Grimaldo\b1f4086c,es ESP,DF,pt Benfica,590,0,1,0.00,0.15,0.2,0.6,0.02,0.10
+Marko Grujić\8b8e759d,rs SRB,MF,pt Porto,320,0,1,0.00,0.28,0.4,0.3,0.13,0.10
+Gabriel Gudmundsson\d5d22a58,se SWE,DFMF,fr Lille,165,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Raphaël Guerreiro\048a1cbc,pt POR,DF,de Dortmund,182,0,0,0.00,0.00,0.2,0.1,0.11,0.05
+Josuha Guilavogui\e6c43eec,fr FRA,MFDF,de Wolfsburg,427,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Daouda Guindo\e382905a,ml MLI,DF,at RB Salzburg,5,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Péter Gulácsi\bcb2ccd8,hu HUN,GK,de RB Leipzig,450,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+İlkay Gündoğan\819b3158,de GER,MF,eng Manchester City,367,0,2,0.00,0.49,0.6,1.1,0.14,0.28
+Mert Günok\b583aef5,tr TUR,GK,tr Beşiktaş,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Miguel Gutiérrez\7e98cff1,es ESP,DF,es Real Madrid,65,0,0,0.00,0.00,0.0,0.1,0.04,0.11
+Joško Gvardiol\5ad50391,hr CRO,DF,de RB Leipzig,335,0,0,0.00,0.00,0.3,0.1,0.07,0.02
+Munir El Haddadi\8696bc90,ma MAR,FWMF,es Sevilla,205,0,0,0.00,0.00,0.7,0.1,0.33,0.04
+Amadou Haidara\92432bc6,ml MLI,MF,de RB Leipzig,182,0,0,0.00,0.00,0.1,0.5,0.03,0.26
+Achraf Hakimi\e42d61c7,ma MAR,DF,fr Paris S-G,630,0,0,0.00,0.00,0.0,0.5,0.00,0.07
+Samir Handanović\74419746,si SVN,GK,it Inter,630,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Hans Hateboer\3b333ac3,nl NED,DF,it Atalanta,90,0,0,0.00,0.00,0.0,0.0,0.00,0.02
+Eden Hazard\a39bb753,be BEL,FW,es Real Madrid,85,0,0,0.00,0.00,0.2,0.1,0.25,0.15
+Thorgan Hazard\50871bcc,be BEL,FW,de Dortmund,141,0,0,0.00,0.00,0.2,0.6,0.12,0.37
+Tom Heaton\a6de6361,eng ENG,GK,eng Manchester Utd,23,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Dean Henderson\e5a76dfe,eng ENG,GK,eng Manchester Utd,67,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jack Hendry\ffed43e3,sct SCO,DF,be Club Brugge,540,0,0,0.00,0.00,0.3,0.1,0.04,0.01
+Benjamin Henrichs\0a89e877,de GER,DF,de RB Leipzig,55,0,0,0.00,0.00,0.1,0.0,0.13,0.00
+Mario Hermoso\555f3a0b,es ESP,DF,es Atlético Madrid,422,0,0,0.00,0.00,0.1,0.0,0.01,0.00
+Lucas Hernández\c3ee18ef,fr FRA,DF,de Bayern Munich,335,0,0,0.00,0.00,0.1,0.0,0.04,0.00
+Theo Hernández\d4c9725f,fr FRA,DF,it Milan,450,0,0,0.00,0.00,0.6,0.4,0.11,0.08
+Héctor Herrera\a8542814,mx MEX,MF,es Atlético Madrid,138,0,0,0.00,0.00,0.1,0.0,0.07,0.02
+Mats Hummels\05d548d8,de GER,DFFW,de Dortmund,355,0,0,0.00,0.00,0.1,0.2,0.02,0.05
+Atiba Hutchinson\f1b55719,ca CAN,MF,tr Beşiktaş,156,0,0,0.00,0.00,0.1,0.1,0.05,0.04
+Vicente Iborra\ad1ffcfd,es ESP,MF,es Villarreal,11,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Zlatan Ibrahimović\4cde5509,se SWE,FW,it Milan,163,0,0,0.00,0.00,0.1,0.0,0.06,0.00
+Mauro Icardi\43b78598,ar ARG,FW,fr Paris S-G,49,0,0,0.00,0.00,0.3,0.1,0.55,0.23
+Gonçalo Inácio\33651873,pt POR,DF,pt Sporting CP,470,0,1,0.00,0.19,0.2,0.0,0.04,0.00
+Jo Inge Berget\f512a009,no NOR,DF,se Malmö,437,0,0,0.00,0.00,0.0,0.4,0.00,0.08
+Bonke Innocent\546bb36e,ng NGA,MF,se Malmö,493,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Zidane Iqbal\6fa3c28e,iq IRQ,MF,eng Manchester Utd,2,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ismaily\cf182add,br BRA,DF,ua Shakhtar,354,0,0,0.00,0.00,0.1,0.2,0.03,0.05
+José Izquierdo\ca2bc3df,co COL,DF,be Club Brugge,9,0,0,0.00,0.00,0.0,0.0,0.17,0.00
+Curtis Jones\4fb9c88f,eng ENG,MFFW,eng Liverpool,110,0,2,0.00,1.64,0.2,0.5,0.14,0.44
+Frenkie de Jong\1bacc518,nl NED,MF,es Barcelona,522,0,0,0.00,0.00,0.3,1.4,0.06,0.24
+Luuk de Jong\abb3bb95,nl NED,FW,es Barcelona,177,0,0,0.00,0.00,1.3,0.0,0.67,0.00
+Luka Jović\4d8cd038,rs SRB,FW,es Real Madrid,114,0,0,0.00,0.00,0.8,0.1,0.66,0.11
+Keston Julien\76c98b58,tt TRI,DFFW,md Sheriff Tiraspol,55,0,0,0.00,0.00,0.0,0.0,0.02,0.00
+Felix Kalu Nmecha\091c86e2,eng ENG,MFFW,de Wolfsburg,38,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Pierre Kalulu\85f7d1be,fr FRA,DF,it Milan,215,0,0,0.00,0.00,0.1,0.0,0.06,0.01
+Kevin Kampl\b825a650,si SVN,MF,de RB Leipzig,270,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Wilfried Kanga\b4c816a9,fr FRA,FW,ch Young Boys,79,0,0,0.00,0.00,0.3,0.0,0.29,0.00
+N'Golo Kanté\b9fbae28,fr FRA,MF,eng Chelsea,190,0,1,0.00,0.47,0.1,0.8,0.03,0.39
+Kenan Karaman\8f0f2230,tr TUR,MFFW,tr Beşiktaş,266,0,0,0.00,0.00,0.1,0.1,0.05,0.05
+Oleksandr Karavayev\1bd5735a,ua UKR,DFMF,ua Dynamo Kyiv,159,0,0,0.00,0.00,0.1,0.1,0.04,0.04
+Vyacheslav Karavayev\b0b902c8,ru RUS,DF,ru Zenit,297,0,0,0.00,0.00,0.2,0.1,0.05,0.02
+Tomasz Kędziora\dc52c72f,pl POL,DF,ua Dynamo Kyiv,363,0,0,0.00,0.00,0.0,0.1,0.00,0.02
+Thilo Kehrer\51dbeea9,de GER,DF,fr Paris S-G,67,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Mikhail Kerzhakov\2fabebc0,ru RUS,GK,ru Zenit,180,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Franck Kessié\05e19d6a,ci CIV,MFFW,it Milan,321,0,1,0.00,0.28,0.3,0.3,0.07,0.10
+Joshua Kimmich\49296448,de GER,MF,de Bayern Munich,431,0,0,0.00,0.00,0.4,0.7,0.09,0.14
+Presnel Kimpembe\aef6e670,fr FRA,DF,fr Paris S-G,540,0,0,0.00,0.00,0.0,0.1,0.00,0.01
+Simon Kjær\8b8a56ce,dk DEN,DF,it Milan,270,0,0,0.00,0.00,0.2,0.0,0.07,0.00
+Maurits Kjærgaard\2b0852db,dk DEN,MFFW,at RB Salzburg,12,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Lukas Klostermann\ca8033cb,de GER,DF,de RB Leipzig,355,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Ansgar Knauff\19a967ab,de GER,FWMF,de Dortmund,23,0,0,0.00,0.00,0.2,0.0,0.74,0.00
+Gregor Kobel\cd59b9df,ch SUI,GK,de Dortmund,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Philipp Köhn\ff74841d,ch SUI,GK,at RB Salzburg,630,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Koke\55126f3b,es ESP,MF,es Atlético Madrid,453,0,1,0.00,0.20,0.3,0.1,0.06,0.02
+Aleksandar Kolarov\eda40760,rs SRB,DF,it Inter,6,0,0,0.00,0.00,0.0,0.1,0.00,1.05
+Dimitris Kolovos\bc8df459,gr GRE,MF,md Sheriff Tiraspol,402,0,0,0.00,0.00,0.1,0.2,0.02,0.05
+Ibrahima Konaté\5ed9b537,fr FRA,DF,eng Liverpool,270,0,0,0.00,0.00,0.1,0.0,0.03,0.00
+Geoffrey Kondogbia\cce181df,cf CTA,MFDF,es Atlético Madrid,388,0,0,0.00,0.00,0.1,0.0,0.02,0.01
+Teun Koopmeiners\a26fb8aa,nl NED,MF,it Atalanta,212,0,1,0.00,0.42,0.1,0.3,0.05,0.13
+Viktor Korniienko\f38cc3b3,ua UKR,DF,ua Shakhtar,83,0,0,0.00,0.00,0.0,0.0,0.03,0.05
+Nianzou Kouassi\5853ac44,fr FRA,DF,de Bayern Munich,188,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jules Koundé\4d1666ff,fr FRA,DF,es Sevilla,450,0,0,0.00,0.00,0.4,0.0,0.07,0.01
+Mateo Kovačić\79c0821a,hr CRO,MF,eng Chelsea,230,0,0,0.00,0.00,0.1,0.2,0.05,0.06
+Kirill Kravtsov\a2c51161,ru RUS,MFDF,ru Zenit,16,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Stanislav Kritsyuk\b8798a46,ru RUS,GK,ru Zenit,360,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Danil Krugovoy\a802405e,ru RUS,DFFW,ru Zenit,73,0,0,0.00,0.00,0.0,0.1,0.02,0.14
+Rade Krunić\817c6964,ba BIH,FWMF,it Milan,250,0,0,0.00,0.00,0.1,0.0,0.05,0.00
+Serhiy Kryvtsov\292a652a,ua UKR,DF,ua Shakhtar,193,0,1,0.00,0.47,0.0,0.2,0.00,0.09
+Daniil Kuznetsov\18a88e3e,ru RUS,MF,ru Zenit,3,0,0,0.00,0.00,0.1,0.0,2.96,0.00
+Maxence Lacroix\277c49ed,fr FRA,DF,de Wolfsburg,540,0,0,0.00,0.00,0.3,0.1,0.04,0.02
+Konrad Laimer\c1b7847c,at AUT,MF,de RB Leipzig,401,0,1,0.00,0.22,0.4,1.0,0.10,0.22
+Érik Lamela\abe66106,ar ARG,FWMF,es Sevilla,123,0,0,0.00,0.00,0.1,0.2,0.10,0.18
+Noa Lang\8e034340,nl NED,MFFW,be Club Brugge,527,0,1,0.00,0.17,0.7,0.8,0.12,0.14
+Aymeric Laporte\119b9a8e,es ESP,DF,eng Manchester City,318,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Eric Larsson\8474cb83,se SWE,DF,se Malmö,275,0,0,0.00,0.00,0.0,0.3,0.00,0.08
+Sandro Lauper\6a829019,ch SUI,DF,ch Young Boys,463,0,0,0.00,0.00,0.1,0.2,0.01,0.03
+Valentino Lazaro\016ff750,at AUT,DF,pt Benfica,116,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jordan Lefort\c3e4ecbb,fr FRA,DF,ch Young Boys,167,0,0,0.00,0.00,0.0,0.4,0.02,0.19
+Thomas Lemar\4dbd0916,fr FRA,MF,es Atlético Madrid,284,0,1,0.00,0.32,0.3,0.2,0.09,0.06
+Clément Lenglet\4f28a6ff,fr FRA,DF,es Barcelona,343,0,0,0.00,0.00,0.4,0.0,0.10,0.00
+Oscar Lewicki\0c09c984,se SWE,MF,se Malmö,124,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Bohdan Liedniev\b1dae700,ua UKR,MF,ua Dynamo Kyiv,10,0,0,0.00,0.00,0.0,0.2,0.00,1.92
+Matthijs de Ligt\d6e53a3a,nl NED,DF,it Juventus,535,0,0,0.00,0.00,0.1,0.0,0.01,0.00
+Isaac Lihadji\57a46f3f,fr FRA,MF,fr Lille,25,0,0,0.00,0.00,0.0,0.0,0.00,0.07
+Victor Lindelöf\f5deef4c,se SWE,DF,eng Manchester Utd,425,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jesse Lingard\810e3c74,eng ENG,MFFW,eng Manchester Utd,118,0,1,0.00,0.76,0.2,0.8,0.18,0.58
+Marcos Llorente\02c15616,es ESP,DFMF,es Atlético Madrid,461,0,0,0.00,0.00,0.1,0.7,0.02,0.14
+Giovani Lo Celso\d7553721,ar ARG,FW,es Villarreal,90,0,0,0.00,0.00,0.3,0.0,0.34,0.02
+Manuel Locatelli\a8a874f1,it ITA,MF,it Juventus,452,0,0,0.00,0.00,0.2,0.5,0.05,0.11
+Renan Lodi\ed9f7cfe,br BRA,DF,es Atlético Madrid,233,0,2,0.00,0.77,0.1,0.6,0.03,0.22
+Ruben Loftus-Cheek\e97fd090,eng ENG,MF,eng Chelsea,214,0,1,0.00,0.42,0.3,0.9,0.12,0.38
+Matteo Lovato\5fa57166,it ITA,DF,it Atalanta,45,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Dejan Lovren\1a2935f6,hr CRO,DF,ru Zenit,315,0,0,0.00,0.00,0.1,0.0,0.02,0.01
+Dodi Lukebakio\0c61c77c,be BEL,FWMF,de Wolfsburg,299,0,0,0.00,0.00,0.1,0.5,0.03,0.15
+Fabian Lustenberger\a63a995f,ch SUI,DF,ch Young Boys,90,0,0,0.00,0.00,0.1,0.0,0.07,0.00
+Quentin Maceiras\6c330f30,ch SUI,DF,ch Young Boys,115,0,0,0.00,0.00,0.2,0.1,0.12,0.04
+Nico Maier\7ea03b7d,ch SUI,FW,ch Young Boys,4,0,0,0.00,0.00,0.0,0.0,0.89,0.00
+Mike Maignan\fcb38f57,fr FRA,GK,it Milan,270,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Malcom\6853490f,br BRA,FWMF,ru Zenit,432,0,1,0.00,0.21,0.8,1.7,0.17,0.35
+Daniel Maldini\801831fe,it ITA,FW,it Milan,23,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Felix Mambimbi\1b81794d,ch SUI,FWMF,ch Young Boys,63,0,0,0.00,0.00,0.1,0.0,0.09,0.00
+Reinildo Mandava\c20bdcd7,mz MOZ,DF,es Atlético Madrid,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Reinildo Mandava\c20bdcd7,mz MOZ,DF,fr Lille,457,0,0,0.00,0.00,0.0,0.1,0.00,0.02
+Aïssa Mandi\fbd6378b,dz ALG,DF,es Villarreal,26,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Faitout Maouassa\e54a9890,fr FRA,MF,be Club Brugge,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Iván Marcano\7a20d90a,es ESP,DF,pt Porto,127,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Marcelo\603116a7,br BRA,DF,es Real Madrid,53,0,0,0.00,0.00,0.1,0.0,0.11,0.00
+José María Giménez\f0da930c,uy URU,DF,es Atlético Madrid,495,0,0,0.00,0.00,0.3,0.0,0.05,0.00
+Mariano\5c4dc0ff,do DOM,FW,es Real Madrid,13,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+João Mário Lopes\82a39b66,pt POR,DF,pt Porto,350,0,0,0.00,0.00,0.0,0.3,0.00,0.07
+João Mário\f0021247,pt POR,MF,pt Benfica,460,0,3,0.00,0.59,0.4,0.9,0.07,0.18
+Marlon\cdf65d12,br BRA,DF,ua Shakhtar,450,0,0,0.00,0.00,0.1,0.0,0.03,0.00
+Marlos\9139bb12,ua UKR,FWMF,ua Shakhtar,209,0,0,0.00,0.00,0.3,0.9,0.12,0.38
+Marquinhos\d5f2f82b,br BRA,DF,fr Paris S-G,630,0,1,0.00,0.14,0.0,0.5,0.00,0.07
+Anthony Martial\8b788c01,fr FRA,FW,eng Manchester Utd,67,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Josep Martinez\11d8aff0,es ESP,GK,de RB Leipzig,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Lautaro Martínez\f7036e1c,ar ARG,FW,it Inter,506,0,0,0.00,0.00,2.3,1.2,0.40,0.21
+Lisandro Martínez\bac46a10,ar ARG,DF,nl Ajax,630,0,1,0.00,0.14,0.6,0.4,0.09,0.05
+Toni Martínez\f3945e07,es ESP,FW,pt Porto,146,0,0,0.00,0.00,0.0,0.0,0.02,0.00
+Christopher Martins\0e96a5e1,lu LUX,MF,ch Young Boys,417,0,0,0.00,0.00,0.1,0.3,0.03,0.06
+Clinton Mata\55abe554,ao ANG,DF,be Club Brugge,527,0,0,0.00,0.00,0.1,0.4,0.02,0.06
+Juan Mata\29733c72,es ESP,MF,eng Manchester Utd,89,0,0,0.00,0.00,0.3,0.0,0.29,0.00
+Nemanja Matić\eb7822d7,rs SRB,MFDF,eng Manchester Utd,176,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Joël Matip\b217ef29,cm CMR,DF,eng Liverpool,450,0,0,0.00,0.00,0.3,0.0,0.05,0.00
+Mykola Matviyenko\1adcf39e,ua UKR,DF,ua Shakhtar,360,0,0,0.00,0.00,0.1,0.0,0.03,0.00
+Maycon\005ca692,br BRA,MF,ua Shakhtar,474,0,0,0.00,0.00,0.2,0.4,0.04,0.08
+Noussair Mazraoui\b74277a0,ma MAR,DF,nl Ajax,567,0,2,0.00,0.32,0.5,1.0,0.09,0.15
+Kevin Mbabu\493924a7,ch SUI,DF,de Wolfsburg,328,0,0,0.00,0.00,0.0,0.1,0.01,0.02
+Noah Mbamba\e75129bd,be BEL,MF,be Club Brugge,58,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Chancel Mbemba\e76cb9cc,cd COD,DF,pt Porto,449,0,0,0.00,0.00,0.1,0.0,0.02,0.01
+Weston McKennie\01c3aff5,us USA,MF,it Juventus,389,0,0,0.00,0.00,1.2,0.3,0.28,0.06
+Scott McTominay\d93c2511,sct SCO,MF,eng Manchester Utd,331,0,0,0.00,0.00,0.4,0.0,0.10,0.00
+Brandon Mechele\0a6dbbf7,be BEL,DF,be Club Brugge,133,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Soualiho Meïté\5cec2c74,fr FRA,MF,pt Benfica,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Arthur Melo\48b3dd60,br BRA,MF,it Juventus,178,0,0,0.00,0.00,0.1,0.1,0.06,0.06
+Nuno Mendes\f20e4cc9,pt POR,DF,fr Paris S-G,490,0,0,0.00,0.00,0.1,0.5,0.02,0.09
+Edouard Mendy\33887998,sn SEN,GK,eng Chelsea,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ferland Mendy\3cefcaef,fr FRA,DF,es Real Madrid,397,0,1,0.00,0.23,0.0,0.3,0.01,0.06
+Teden Mengi\91748070,eng ENG,DF,eng Manchester Utd,30,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Umut Meraş\c8112d1e,tr TUR,DF,tr Beşiktaş,252,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Thomas Meunier\e162b013,be BEL,DF,de Dortmund,483,0,1,0.00,0.19,0.2,0.2,0.04,0.04
+Simon Mignolet\d436eb94,be BEL,GK,be Club Brugge,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Éder Militão\2784f898,br BRA,DF,es Real Madrid,626,0,0,0.00,0.00,0.5,0.0,0.07,0.00
+James Milner\2f90f6b8,eng ENG,MFDF,eng Liverpool,148,0,1,0.00,0.61,0.0,0.9,0.02,0.52
+Takumi Minamino\f833a830,jp JPN,FWMF,eng Liverpool,217,0,0,0.00,0.00,0.1,0.1,0.02,0.04
+Óscar Mingueza\056269d7,es ESP,DF,es Barcelona,222,0,0,0.00,0.00,0.0,0.2,0.00,0.10
+Aleksei Miranchuk\a9aa0d1d,ru RUS,FWMF,it Atalanta,35,0,1,0.00,2.57,0.0,0.4,0.07,0.94
+Fabio Miretti\34693494,it ITA,MF,it Juventus,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Luka Modrić\6025fab1,hr CRO,MF,es Real Madrid,532,0,1,0.00,0.17,0.8,1.1,0.14,0.18
+Kudus Mohammed\b62878a5,gh GHA,MF,nl Ajax,24,0,0,0.00,0.00,0.1,0.0,0.52,0.00
+Niklas Moisander\00844823,fi FIN,DF,se Malmö,188,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Gonzalo Montiel\374d5158,ar ARG,DF,es Sevilla,187,0,0,0.00,0.00,0.1,0.0,0.05,0.01
+Wesley Moraes\bfae110f,br BRA,FW,be Club Brugge,28,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ilaix Moriba\f4c69aa6,gn GUI,MFFW,de RB Leipzig,63,0,0,0.00,0.00,0.2,0.4,0.25,0.59
+Tyler Morton\2bc28bb9,eng ENG,MF,eng Liverpool,180,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Andrei Mostovoy\dfb50e5c,ru RUS,FWMF,ru Zenit,152,0,0,0.00,0.00,0.3,0.1,0.16,0.08
+Youssoufa Moukoko\6ce43701,de GER,FW,de Dortmund,21,0,0,0.00,0.00,0.2,0.0,0.65,0.00
+Mason Mount\9674002f,eng ENG,FWMF,eng Chelsea,284,0,0,0.00,0.00,0.5,0.7,0.14,0.22
+Mykhailo Mudryk\049a888d,ua UKR,FW,ua Shakhtar,182,0,0,0.00,0.00,0.6,0.7,0.31,0.33
+Juan Musso\a111cf41,ar ARG,GK,it Atalanta,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Vitaliy Mykolenko\30d4a2e5,ua UKR,DF,ua Dynamo Kyiv,450,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Joakim Mæhle\c459a650,dk DEN,DF,it Atalanta,435,0,1,0.00,0.21,0.1,0.1,0.01,0.02
+Georges-Kévin N'Koudou\76c131da,fr FRA,FW,tr Beşiktaş,90,0,0,0.00,0.00,0.0,0.2,0.03,0.21
+Fabrice N'Sakala\de85e3cc,cd COD,DF,tr Beşiktaş,270,0,0,0.00,0.00,0.0,0.0,0.01,0.01
+Stanley N'Soki\61590953,fr FRA,DF,be Club Brugge,483,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Nacho\2946f9a1,es ESP,DF,es Real Madrid,206,0,0,0.00,0.00,0.2,0.1,0.08,0.04
+Adi Nalic\ad597bf7,ba BIH,MFFW,se Malmö,88,0,0,0.00,0.00,0.0,0.1,0.00,0.07
+Sebastian Nanasi\ce747d2a,se SWE,FWMF,se Malmö,89,0,0,0.00,0.00,0.1,0.0,0.08,0.03
+Jesús Navas\3f10bd22,es ESP,DF,es Sevilla,330,0,0,0.00,0.00,0.0,0.6,0.01,0.16
+Keylor Navas\ecada4fc,cr CRC,GK,fr Paris S-G,270,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Flávio Nazinho\e7281ea9,pt POR,DF,pt Sporting CP,21,0,0,0.00,0.00,0.0,0.0,0.13,0.00
+Luís Neto\953597a1,pt POR,DF,pt Sporting CP,280,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Manuel Neuer\8778c910,de GER,GK,de Bayern Munich,540,0,1,0.00,0.17,0.0,0.3,0.00,0.05
+Neymar\69384e5d,br BRA,FW,fr Paris S-G,379,0,1,0.00,0.24,1.0,0.7,0.23,0.16
+Lasse Nielsen\06e5b0e4,dk DEN,DF,se Malmö,450,0,0,0.00,0.00,0.1,0.0,0.01,0.00
+Saúl Ñíguez\c14bc029,es ESP,MFDF,eng Chelsea,146,0,0,0.00,0.00,0.5,0.0,0.31,0.02
+Rasmus Nissen\39769cff,dk DEN,DF,at RB Salzburg,630,0,1,0.00,0.14,0.4,0.0,0.06,0.00
+Hugo Novoa\5458f670,es ESP,FW,de RB Leipzig,25,0,1,0.00,3.60,0.2,0.3,0.88,0.97
+Matheus Nunes\e6af02e0,pt POR,MF,pt Sporting CP,508,0,2,0.00,0.35,0.0,0.5,0.01,0.08
+Jan Oblak\ee8508c0,si SVN,GK,es Atlético Madrid,630,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Dani Olmo\ae44e8e2,es ESP,MF,de RB Leipzig,88,0,1,0.00,1.02,0.0,0.1,0.02,0.12
+Martin Olsson\2f72f79e,se SWE,DF,se Malmö,288,0,0,0.00,0.00,0.0,0.1,0.01,0.02
+Amadou Onana\828657ff,be BEL,MFFW,fr Lille,227,0,0,0.00,0.00,0.1,0.0,0.05,0.02
+André Onana\e9c0c1b2,cm CMR,GK,nl Ajax,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jérôme Onguéné\e81f0356,cm CMR,DF,at RB Salzburg,436,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Willi Orban\20030c06,hu HUN,DF,de RB Leipzig,315,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Nicolás Otamendi\0d267745,ar ARG,DF,pt Benfica,540,0,0,0.00,0.00,0.1,0.2,0.02,0.03
+Otávio\28b1f3ce,pt POR,MF,pt Porto,447,0,0,0.00,0.00,1.2,0.8,0.24,0.17
+Paulo Otávio\1cbe4984,br BRA,DF,de Wolfsburg,171,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Alex Oxlade-Chamberlain\38c7feef,eng ENG,MFFW,eng Liverpool,301,0,1,0.00,0.30,0.7,0.1,0.22,0.04
+Oğuzhan Özyakup\d8c679be,tr TUR,MF,tr Beşiktaş,53,0,0,0.00,0.00,0.0,0.2,0.00,0.33
+Gavi Paez\19cae58d,es ESP,MFFW,es Barcelona,397,0,0,0.00,0.00,0.6,0.0,0.14,0.01
+João Palhinha\a78ff07f,pt POR,MF,pt Sporting CP,533,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Leandro Paredes\dff153a4,ar ARG,MF,fr Paris S-G,245,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Felix Passlack\5c899683,de GER,DF,de Dortmund,62,0,0,0.00,0.00,0.0,0.0,0.04,0.00
+Remko Pasveer\3392603d,nl NED,GK,nl Ajax,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Alan Patrick\00672021,br BRA,MF,ua Shakhtar,266,0,1,0.00,0.34,0.3,0.6,0.11,0.20
+Benjamin Pavard\45a03961,fr FRA,DF,de Bayern Munich,512,0,1,0.00,0.18,0.3,0.2,0.05,0.03
+Alfonso Pedraza\63f04c6c,es ESP,DF,es Villarreal,333,0,1,0.00,0.27,0.4,1.4,0.10,0.37
+Pedri\0d9b2d31,es ESP,MF,es Barcelona,157,0,0,0.00,0.00,0.0,0.0,0.01,0.01
+Pedrinho\6796e284,br BRA,MFFW,ua Shakhtar,342,0,0,0.00,0.00,0.8,0.4,0.21,0.11
+Luca Pellegrini\3b61c9ec,it ITA,DF,it Juventus,4,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Carlos de Pena\6b915aa1,uy URU,FWMF,ua Dynamo Kyiv,373,0,0,0.00,0.00,0.3,0.3,0.08,0.08
+Rubén Peña\1f079188,es ESP,MFFW,es Villarreal,18,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Sergio Peña\eda8506a,pe PER,MFFW,se Malmö,280,0,0,0.00,0.00,0.1,0.2,0.03,0.06
+Pepe\c906ce0f,pt POR,DF,pt Porto,347,0,0,0.00,0.00,0.1,0.5,0.03,0.13
+Pepê\fc4e7637,br BRA,FWMF,pt Porto,37,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Danilo Pereira\8fd9996f,pt POR,MF,fr Paris S-G,282,0,0,0.00,0.00,0.3,0.0,0.08,0.00
+Mattia Perin\4c62d0c8,it ITA,GK,it Juventus,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ivan Perišić\6fe90922,hr CRO,DF,it Inter,440,0,1,0.00,0.20,0.9,1.3,0.19,0.26
+Pavao Pervan\c89e8aae,at AUT,GK,de Wolfsburg,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Giuseppe Pezzella\149c5f5d,it ITA,DFMF,it Atalanta,58,0,0,0.00,0.00,0.0,0.0,0.06,0.00
+Maximilian Philipp\061e8e23,de GER,MFFW,de Wolfsburg,90,0,0,0.00,0.00,0.1,0.0,0.09,0.00
+Nathaniel Phillips\515ebe8d,eng ENG,DF,eng Liverpool,91,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Kamil Piątkowski\2cf496fb,pl POL,DF,at RB Salzburg,40,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Pizzi\96094cbc,pt POR,FWMF,pt Benfica,158,0,0,0.00,0.00,0.4,0.1,0.20,0.04
+Miralem Pjanić\ad6df2d5,ba BIH,MF,tr Beşiktaş,260,0,2,0.00,0.69,0.1,1.2,0.04,0.40
+Paul Pogba\867239d3,fr FRA,MFFW,eng Manchester Utd,322,0,0,0.00,0.00,0.1,0.2,0.02,0.06
+Marin Pongračić\2a6cd437,hr CRO,DF,de Dortmund,174,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Yussuf Poulsen\d2416c2e,dk DEN,FW,de RB Leipzig,149,0,1,0.00,0.60,0.4,0.2,0.23,0.14
+Riqui Puig\f090a37a,es ESP,MF,es Barcelona,18,0,0,0.00,0.00,0.0,0.0,0.00,0.11
+Andriy Pyatov\34c3b935,ua UKR,GK,ua Shakhtar,265,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Dani Raba\ea6a7ab4,es ESP,DFFW,es Villarreal,12,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Adrien Rabiot\8794e251,fr FRA,MF,it Juventus,446,0,0,0.00,0.00,0.2,0.0,0.05,0.00
+Stjepan Radeljić\30e03a25,ba BIH,DFMF,md Sheriff Tiraspol,81,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Nemanja Radonjić\0630eb63,rs SRB,FW,pt Benfica,32,0,0,0.00,0.00,0.0,0.0,0.09,0.00
+Erdal Rakip\e150254d,mk MKD,MF,se Malmö,272,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Eric Ramírez\b9f92e76,ve VEN,FWMF,ua Dynamo Kyiv,18,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Gonçalo Ramos\f63cda26,pt POR,MFFW,pt Benfica,119,0,1,0.00,0.76,0.8,0.0,0.59,0.00
+Aaron Ramsey\ef619b0b,wls WAL,MFFW,it Juventus,16,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Andrea Ranocchia\539230cf,it ITA,DF,it Inter,100,0,0,0.00,0.00,0.4,0.0,0.40,0.00
+Reinier\6b21b7b5,br BRA,MFFW,de Dortmund,126,0,0,0.00,0.00,0.1,0.5,0.10,0.35
+Matheus Reis\ae1159bf,br BRA,DF,pt Sporting CP,517,0,0,0.00,0.00,0.1,0.1,0.02,0.01
+Karim Rekik\3376a776,nl NED,DF,es Sevilla,125,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Devyne Rensch\c5cbbcff,nl NED,DF,nl Ajax,75,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Federico Ricca\54f5ce34,uy URU,DF,be Club Brugge,166,0,0,0.00,0.00,0.1,0.0,0.07,0.00
+Omar Richards\f9b1b7bf,eng ENG,DFFW,de Bayern Munich,56,0,0,0.00,0.00,0.0,0.0,0.00,0.05
+Sergi Roberto\335fa267,es ESP,DFFW,es Barcelona,168,0,0,0.00,0.00,0.1,0.2,0.07,0.11
+Andrew Robertson\2e4f5f03,sct SCO,DF,eng Liverpool,388,0,1,0.00,0.23,0.2,1.2,0.04,0.28
+Marc Roca\da27e268,es ESP,MF,de Bayern Munich,55,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Rodri\6434f10d,es ESP,MF,eng Manchester City,470,0,0,0.00,0.00,0.1,0.1,0.02,0.02
+Óscar Rodríguez Arnaiz\19709006,es ESP,MF,es Sevilla,23,0,0,0.00,0.00,0.0,0.0,0.04,0.00
+Alessio Romagnoli\3ead85f9,it ITA,DF,it Milan,393,0,1,0.00,0.23,0.0,0.0,0.01,0.01
+Iván Romero\2fbe6af0,es ESP,FW,es Sevilla,21,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Marten de Roon\2a1beb34,nl NED,MFDF,it Atalanta,482,0,0,0.00,0.00,0.1,0.1,0.01,0.02
+Valentin Rosier\9b6d9b53,fr FRA,DF,tr Beşiktaş,405,0,0,0.00,0.00,0.0,0.1,0.01,0.02
+Jérôme Roussillon\13203c45,fr FRA,DF,de Wolfsburg,361,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Antonio Rüdiger\18b896d6,de GER,DF,eng Chelsea,540,0,0,0.00,0.00,0.3,0.1,0.05,0.01
+Daniele Rugani\14b8fcdf,it ITA,DF,it Juventus,101,0,0,0.00,0.00,0.0,0.0,0.03,0.00
+Gerónimo Rulli\625c144a,ar ARG,GK,es Villarreal,630,0,0,0.00,0.00,0.0,0.1,0.00,0.01
+Serdar Saatçı\760fd987,tr TUR,DF,tr Beşiktaş,90,0,0,0.00,0.00,0.1,0.0,0.13,0.00
+Marcel Sabitzer\e280527c,at AUT,MF,de Bayern Munich,136,0,0,0.00,0.00,0.4,0.2,0.28,0.11
+Alexis Saelemaekers\ee251371,be BEL,FW,it Milan,443,0,0,0.00,0.00,0.2,0.1,0.04,0.02
+Renato Sanches\032f894e,pt POR,MFFW,fr Lille,404,0,0,0.00,0.00,0.4,0.3,0.09,0.07
+Cisse Sandra\2f33776f,be BEL,FW,be Club Brugge,55,0,0,0.00,0.00,0.3,0.0,0.50,0.00
+Douglas Santos\c50e5bba,br BRA,DF,ru Zenit,443,0,2,0.00,0.41,0.1,1.2,0.03,0.25
+Zaidu Sanusi\24051310,ng NGA,DF,pt Porto,387,0,0,0.00,0.00,0.0,0.2,0.01,0.05
+Bouna Sarr\1a4b9094,sn SEN,DFFW,de Bayern Munich,83,0,0,0.00,0.00,0.2,0.0,0.22,0.00
+Malang Sarr\4315f30d,fr FRA,DF,eng Chelsea,101,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Charlie Savage\e07398f8,wls WAL,MF,eng Manchester Utd,2,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Stefan Savić\f6ac68c1,me MNE,DF,es Atlético Madrid,180,0,0,0.00,0.00,0.0,0.1,0.00,0.05
+Nico Schulz\fa274d97,de GER,DF,de Dortmund,196,0,1,0.00,0.46,0.0,0.4,0.00,0.20
+Perr Schuurs\e613313c,nl NED,DF,nl Ajax,145,0,1,0.00,0.62,0.1,0.4,0.03,0.23
+Haris Seferović\a45eac1f,ch SUI,FW,pt Benfica,10,0,0,0.00,0.00,0.6,0.0,5.61,0.00
+Nicolas Seiwald\28c6e925,at AUT,MF,at RB Salzburg,601,0,1,0.00,0.15,0.1,0.9,0.02,0.14
+Stefano Sensi\b70bde8f,it ITA,MF,it Inter,11,0,0,0.00,0.00,0.1,0.0,1.16,0.00
+Javier Serrano\0a8fd9cb,es ESP,MF,es Atlético Madrid,16,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Benjamin Šeško\3260690c,si SVN,FW,at RB Salzburg,206,0,0,0.00,0.00,0.3,0.1,0.15,0.02
+Artem Shabanov\52e101a8,ua UKR,DF,ua Dynamo Kyiv,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Mykola Shaparenko\17e3e467,ua UKR,MF,ua Dynamo Kyiv,485,0,0,0.00,0.00,0.6,0.2,0.12,0.05
+Luke Shaw\9c94165b,eng ENG,DF,eng Manchester Utd,396,0,2,0.00,0.45,0.1,0.3,0.02,0.06
+Volodymyr Shepelyev\a81ed730,ua UKR,MF,ua Dynamo Kyiv,55,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Oleksiy Shevchenko\e1d4f20d,ua UKR,GK,ua Shakhtar,5,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ilya Shkurin\b37c0a9f,by BLR,FW,ua Dynamo Kyiv,103,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Shola Shoretire\00f0482f,eng ENG,MF,eng Manchester Utd,23,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Cristiano da Silva Leite\2567b7b6,br BRA,DF,md Sheriff Tiraspol,540,0,3,0.00,0.50,0.4,0.5,0.07,0.08
+Bruno Felipe Souza da Silva\0eb83e1a,br BRA,FWMF,md Sheriff Tiraspol,314,0,0,0.00,0.00,0.3,0.5,0.07,0.14
+Thiago Silva\86e7deaf,br BRA,DF,eng Chelsea,458,0,1,0.00,0.20,0.3,0.1,0.07,0.03
+Mohamed Simakan\fcb27134,fr FRA,DF,de RB Leipzig,295,0,0,0.00,0.00,0.0,0.1,0.01,0.03
+Roko Simic\a086ae11,hr CRO,FW,at RB Salzburg,5,0,0,0.00,0.00,0.0,0.0,0.74,0.00
+Islam Slimani\ffec9769,dz ALG,FW,pt Sporting CP,16,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Everton Soares\b1cbc666,br BRA,FWMF,pt Benfica,298,0,0,0.00,0.00,0.5,0.5,0.16,0.15
+Eduard Sobol\2ccd89a3,ua UKR,DF,be Club Brugge,329,0,1,0.00,0.27,0.1,0.2,0.01,0.06
+Oumar Solet\0670ee51,fr FRA,DF,at RB Salzburg,284,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+Manor Solomon\886f9aac,il ISR,FWMF,ua Shakhtar,322,0,0,0.00,0.00,0.4,0.5,0.12,0.15
+Josef de Souza\fb6530de,br BRA,MF,tr Beşiktaş,440,0,0,0.00,0.00,0.1,0.2,0.02,0.04
+Kamal Sowah\74b7375f,gh GHA,MFDF,be Club Brugge,296,0,0,0.00,0.00,0.2,0.2,0.06,0.06
+Marvin Spielmann\59fd245c,ch SUI,MF,ch Young Boys,9,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Josip Stanišić\7ed08d5c,hr CRO,DF,de Bayern Munich,23,0,1,0.00,3.91,0.0,0.2,0.00,0.64
+Zack Steffen\42130443,us USA,GK,eng Manchester City,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Taras Stepanenko\ee3519f5,ua UKR,MF,ua Shakhtar,225,0,0,0.00,0.00,0.0,0.0,0.01,0.00
+John Stones\5eecec3d,eng ENG,DF,eng Manchester City,330,0,0,0.00,0.00,0.5,0.0,0.13,0.00
+Heorhii Sudakov\a793f5a8,ua UKR,MF,ua Shakhtar,57,0,0,0.00,0.00,0.1,0.4,0.15,0.62
+Niklas Süle\e33c06cf,de GER,DF,de Bayern Munich,427,0,0,0.00,0.00,0.1,0.2,0.01,0.04
+Miralem Sulejmani\615c4d8f,rs SRB,MF,ch Young Boys,8,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Vladyslav Supriaha\73affbb6,ua UKR,FW,ua Dynamo Kyiv,81,0,0,0.00,0.00,0.0,0.0,0.00,0.03
+Suso\4e219ad2,es ESP,FW,es Sevilla,225,0,0,0.00,0.00,0.3,0.5,0.11,0.18
+Serhiy Sydorchuk\c71e97ba,ua UKR,MF,ua Dynamo Kyiv,535,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Oleksandr Syrota\3d62c18b,ua UKR,DF,ua Dynamo Kyiv,450,0,0,0.00,0.00,0.1,0.0,0.01,0.00
+Wojciech Szczęsny\01b8a2b2,pl POL,GK,it Juventus,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Adel Taarabt\47dc80f5,ma MAR,MFFW,pt Benfica,166,0,0,0.00,0.00,0.0,0.0,0.00,0.02
+Nicolás Tagliafico\f0661424,ar ARG,DF,nl Ajax,139,0,1,0.00,0.65,0.0,1.0,0.03,0.65
+Ciprian Tătărușanu\b056e3da,ro ROU,GK,it Milan,270,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Kenneth Taylor\ad9b2747,nl NED,MF,nl Ajax,41,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Alex Teixeira\ae530c73,br BRA,MF,tr Beşiktaş,182,0,0,0.00,0.00,0.2,0.2,0.10,0.09
+Marc-André ter Stegen\6f51e382,de GER,GK,es Barcelona,540,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Tetê\7120a04d,br BRA,FWMF,ua Shakhtar,372,0,0,0.00,0.00,1.0,0.5,0.24,0.12
+Steffen Tigges\6b8887c2,de GER,FW,de Dortmund,99,0,0,0.00,0.00,0.1,0.0,0.08,0.00
+Malik Tillman\a5420709,de GER,MFFW,de Bayern Munich,20,0,0,0.00,0.00,0.0,0.3,0.00,1.51
+Jurrien Timber\41034650,nl NED,DF,nl Ajax,483,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Corentin Tolisso\652d4c37,fr FRA,MF,de Bayern Munich,233,0,1,0.00,0.39,0.1,0.1,0.06,0.05
+Rafael Tolói\c56dc39e,it ITA,DF,it Atalanta,360,0,0,0.00,0.00,0.9,1.3,0.22,0.31
+Tiago Tomás\b492126a,pt POR,FWMF,pt Sporting CP,163,0,0,0.00,0.00,0.4,0.0,0.25,0.00
+Sandro Tonali\0db169ae,it ITA,MF,it Milan,331,0,0,0.00,0.00,0.1,0.0,0.02,0.01
+Mehmet Topal\f93c876b,tr TUR,MFDF,tr Beşiktaş,260,0,0,0.00,0.00,0.2,0.0,0.08,0.00
+Gökhan Töre\51960957,tr TUR,MFFW,tr Beşiktaş,78,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ferrán Torres\9e1035f8,es ESP,FW,eng Manchester City,70,0,0,0.00,0.00,0.2,0.1,0.28,0.12
+Óliver Torres\58a9a4d9,es ESP,MF,es Sevilla,168,0,0,0.00,0.00,0.0,0.1,0.02,0.06
+Pau Torres\532e1e4f,es ESP,DF,es Villarreal,630,0,0,0.00,0.00,0.2,0.5,0.03,0.07
+Kieran Trippier\21512407,eng ENG,DF,es Atlético Madrid,219,0,0,0.00,0.00,0.0,0.0,0.00,0.01
+Anatolii Trubin\41f0b196,ua UKR,GK,ua Shakhtar,270,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Kostas Tsimikas\f315ca93,gr GRE,DF,eng Liverpool,242,0,0,0.00,0.00,0.0,0.6,0.00,0.22
+Viktor Tsyhankov\f7e87032,ua UKR,FWMF,ua Dynamo Kyiv,486,0,1,0.00,0.19,1.1,0.6,0.21,0.11
+Oleksandr Tymchyk\3b996663,ua UKR,DF,ua Dynamo Kyiv,162,0,0,0.00,0.00,0.1,0.2,0.06,0.10
+Salih Uçan\fe154b26,tr TUR,MF,tr Beşiktaş,113,0,0,0.00,0.00,0.0,0.1,0.00,0.09
+Manuel Ugarte Ribeiro\c9817014,uy URU,MF,pt Sporting CP,116,0,0,0.00,0.00,0.0,0.0,0.00,0.02
+Andreas Ulmer\1a799243,at AUT,DF,at RB Salzburg,625,0,0,0.00,0.00,0.1,0.1,0.01,0.01
+Sven Ulreich\7d3e7da6,de GER,GK,de Bayern Munich,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Dayot Upamecano\d248cd8f,fr FRA,DF,de Bayern Munich,450,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Mateus Uribe\b997c3de,co COL,MF,pt Porto,286,0,0,0.00,0.00,0.1,0.0,0.03,0.01
+Necip Uysal\2f7af524,tr TUR,DF,tr Beşiktaş,190,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Jesús Vallejo\c2111b45,es ESP,DF,es Real Madrid,4,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Federico Valverde\0959c2a2,uy URU,MFDF,es Real Madrid,215,0,0,0.00,0.00,0.2,0.2,0.07,0.09
+Ignace Van Der Brempt\2bf50b37,be BEL,DFMF,be Club Brugge,165,0,0,0.00,0.00,0.0,0.2,0.00,0.11
+Raphaël Varane\9f8e9423,fr FRA,DF,eng Manchester Utd,262,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Berkay Vardar\708d068c,az AZE,DF,tr Beşiktaş,18,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Lucas Vázquez\fd51b456,es ESP,FWDF,es Real Madrid,289,0,0,0.00,0.00,0.0,0.8,0.00,0.24
+Matías Vecino\44ac04e9,uy URU,MF,it Inter,118,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Benjamin Verbič\2ebc1b44,si SVN,MFFW,ua Dynamo Kyiv,92,0,0,0.00,0.00,0.2,0.0,0.21,0.01
+Lucas Veríssimo\5eaf85b5,br BRA,DF,pt Benfica,270,0,0,0.00,0.00,0.1,0.2,0.03,0.07
+Marco Verratti\1467af0d,it ITA,MF,fr Paris S-G,340,0,0,0.00,0.00,0.1,0.5,0.02,0.14
+Jan Vertonghen\ba23a904,be BEL,DF,pt Benfica,630,0,1,0.00,0.14,0.3,0.0,0.04,0.00
+Domagoj Vida\3f359b33,hr CRO,DF,tr Beşiktaş,180,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Fabio Vieira\6412cc03,pt POR,MFDF,pt Porto,87,0,1,0.00,1.03,0.0,0.2,0.04,0.18
+Rúben Vinagre\b937e490,pt POR,DF,pt Sporting CP,64,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+João Virgínia\728e9b2e,pt POR,GK,pt Sporting CP,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Vitão\d4f034db,br BRA,DF,ua Shakhtar,90,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Vitinha\3b029691,pt POR,MF,pt Porto,223,0,0,0.00,0.00,0.2,0.0,0.09,0.00
+Vitinho\06d4b2e4,br BRA,FWMF,ua Dynamo Kyiv,95,0,0,0.00,0.00,0.0,0.0,0.04,0.00
+Odisseas Vlachodimos\03df04ff,gr GRE,GK,pt Benfica,630,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Ruud Vormer\c24544c7,nl NED,MF,be Club Brugge,159,0,1,0.00,0.57,0.1,0.4,0.03,0.24
+Aster Vranckx\f86cd5df,be BEL,MFFW,de Wolfsburg,335,0,0,0.00,0.00,0.0,0.1,0.00,0.02
+Šime Vrsaljko\46a8347f,hr CRO,DF,es Atlético Madrid,216,0,0,0.00,0.00,0.4,0.0,0.15,0.00
+Luca Waldschmidt\e5a35ae9,de GER,MFFW,de Wolfsburg,120,0,0,0.00,0.00,0.0,0.0,0.04,0.02
+Aaron Wan-Bissaka\9e525177,eng ENG,DFFW,eng Manchester Utd,419,0,0,0.00,0.00,0.1,0.0,0.02,0.00
+Timothy Weah\8eec784d,us USA,MFFW,fr Lille,221,0,0,0.00,0.00,0.1,0.0,0.04,0.00
+Wout Weghorst\c4e87b8b,nl NED,FW,de Wolfsburg,396,0,0,0.00,0.00,1.5,0.2,0.33,0.04
+Julian Weigl\346d51d9,de GER,MF,pt Benfica,540,0,0,0.00,0.00,0.0,0.6,0.00,0.10
+Welinton\292f1130,br BRA,DF,tr Beşiktaş,312,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Wendell\f9acca3a,br BRA,DF,pt Porto,132,0,0,0.00,0.00,0.1,0.0,0.05,0.03
+Neco Williams\dd323728,wls WAL,DFFW,eng Liverpool,180,0,0,0.00,0.00,0.1,0.1,0.05,0.06
+Axel Witsel\5dfc6ad5,be BEL,MF,de Dortmund,470,0,0,0.00,0.00,0.1,0.4,0.01,0.08
+Marius Wolf\fa661778,de GER,DFFW,de Dortmund,172,0,0,0.00,0.00,0.1,0.3,0.04,0.16
+Max Woltman\0e5b695f,eng ENG,FW,eng Liverpool,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Xeka\f3600c02,pt POR,MF,fr Lille,345,0,0,0.00,0.00,0.1,0.3,0.01,0.07
+Yusuf Yazıcı\f5c8b425,tr TUR,FWMF,fr Lille,51,0,0,0.00,0.00,0.1,0.1,0.19,0.14
+Rıdvan Yılmaz\94721522,tr TUR,DFMF,tr Beşiktaş,135,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Illia Zabarnyi\88968486,ua UKR,DF,ua Dynamo Kyiv,540,0,0,0.00,0.00,0.3,0.0,0.06,0.00
+Dan-Axel Zagadou\a4effc55,fr FRA,DF,de Dortmund,97,0,0,0.00,0.00,0.1,0.0,0.08,0.00
+Denis Zakaria\384d58d9,ch SUI,MF,it Juventus,10,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Davide Zappacosta\7fe90ccd,it ITA,DF,it Atalanta,404,0,1,0.00,0.22,0.3,0.7,0.07,0.16
+Cedric Zesiger\2bab583c,ch SUI,DF,ch Young Boys,1,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Edon Zhegrova\34a88e3e,xk KVX,FW,fr Lille,10,0,0,0.00,0.00,0.0,0.0,0.00,0.00
+Oleksandr Zinchenko\51cf8561,ua UKR,DFMF,eng Manchester City,274,0,1,0.00,0.33,0.3,0.7,0.10,0.22
